@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Emscripten Game</title>
+    <script src="game.js"></script>
+</head>
+<body>
+    <h1>Welcome to My Emscripten Game</h1>
+    <button id="run">Run Game</button>
+    <script>
+        document.getElementById('run').onclick = function() {
+            // Assuming the module is created with createGameModule
+            const gameModule = createGameModule();
+            gameModule.then((module) => {
+                module._main(); // Call the main function from C++
+            });
+        };
+    </script>
+</body>
+</html>

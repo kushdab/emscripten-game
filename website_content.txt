@@ -1,0 +1,1635 @@
+	<!DOCTYPE html>
+	<html lang="en-US">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="profile" href="https://gmpg.org/xfn/11">
+		<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Ezraondaratv &#8211; Voice of Nakuru</title>
+	<style type="text/css">
+	label[for="password"], .password-input, .lost_password{
+	display:none !important;
+	}
+	</style>
+	<link rel="alternate" type="application/rss+xml" title="Ezraondaratv &raquo; Feed" href="https://www.ezraondaratv.com/feed/" />
+<script>
+var pagelayer_ajaxurl = "https://www.ezraondaratv.com/site-admin/admin-ajax.php?";
+var pagelayer_global_nonce = "0cb3eb5b1f";
+var pagelayer_server_time = 1726805620;
+var pagelayer_is_live = "";
+var pagelayer_facebook_id = "";
+var pagelayer_settings = {"post_types":["post","page"],"enable_giver":"1","max_width":1170,"tablet_breakpoint":780,"mobile_breakpoint":360,"sidebar":false,"body_font":false,"color":false};
+var pagelayer_recaptch_lang = "";
+</script><link rel="preload" href="https://fonts.googleapis.com/css?family=Poppins%3A400%7CWork%20Sans%3A400%2C600" as="fetch" crossorigin="anonymous"><link rel="dns-prefetch" href="https://fonts.gstatic.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous"><style id="pagelayer-wow-animation-style" type="text/css">.pagelayer-wow{visibility: hidden;}</style>
+	<style id="pagelayer-global-styles" type="text/css">
+:root{--pagelayer-color-primary:#007bff;--pagelayer-color-secondary:#6c757d;--pagelayer-color-text:#1d1d1d;--pagelayer-color-accent:#61ce70;--pagelayer-font-primary-font-family:Open Sans;--pagelayer-font-secondary-font-family:Roboto;--pagelayer-font-text-font-family:Montserrat;--pagelayer-font-accent-font-family:Poppins;}
+.pagelayer-row-stretch-auto > .pagelayer-row-holder, .pagelayer-row-stretch-full > .pagelayer-row-holder.pagelayer-width-auto{ max-width: 1170px; margin-left: auto; margin-right: auto;}
+@media (min-width: 781px){
+			.pagelayer-hide-desktop{
+				display:none !important;
+			}
+		}
+
+		@media (max-width: 780px) and (min-width: 361px){
+			.pagelayer-hide-tablet{
+				display:none !important;
+			}
+			.pagelayer-wp-menu-holder[data-drop_breakpoint="tablet"] .pagelayer-wp_menu-ul{
+				display:none;
+			}
+		}
+
+		@media (max-width: 360px){
+			.pagelayer-hide-mobile{
+				display:none !important;
+			}
+			.pagelayer-wp-menu-holder[data-drop_breakpoint="mobile"] .pagelayer-wp_menu-ul{
+				display:none;
+			}
+		}
+body.pagelayer-body {font-family:Poppins;font-size:14px;font-weight:400;background-color:#ffffffff;color:#00000088}
+body.pagelayer-body .site-main{background-color:#ffffffff}
+body.pagelayer-body .entry-header{font-family:Work Sans;font-size:18px;font-weight:600}
+body.pagelayer-body .entry-content{font-family:Poppins;font-size:14px;font-weight:400}
+body.pagelayer-body p{font-family:Poppins;font-size:14px;font-weight:400;color:#00000088}
+body.pagelayer-body a{text-decoration-line:none;color:#e01010ff}
+body.pagelayer-body a:hover{color:#1e1ebbff}
+body.pagelayer-body h1{font-family:Work Sans;font-size:56px;font-weight:600;line-height:1.6;color:#000000ff}
+body.pagelayer-body h2{font-family:Work Sans;font-size:42px;font-weight:600;text-transform:uppercase;line-height:1.6;color:#000000ff}
+body.pagelayer-body h3{font-family:Work Sans;font-size:18px;font-weight:600;text-transform:uppercase;line-height:1.6;color:#000000ff}
+body.pagelayer-body h4{font-family:Work Sans;font-size:17px;line-height:1.6;color:#000000ff}
+body.pagelayer-body h5{font-family:Work Sans;font-size:16px;font-weight:600;line-height:1.6;color:#000000ff}
+body.pagelayer-body h6{font-family:Work Sans;font-size:15px;font-weight:600;line-height:1.6;color:#000000ff}
+body.pagelayer-body strong, body.pagelayer-body b{font-weight:700}
+@media (max-width: 780px){
+	[class^="pagelayer-offset-"],
+	[class*=" pagelayer-offset-"] {
+		margin-left: 0;
+	}
+
+	.pagelayer-row .pagelayer-col {
+		margin-left: 0;
+		width: 100%;
+	}
+	.pagelayer-row.pagelayer-gutters .pagelayer-col {
+		margin-bottom: 16px;
+	}
+	.pagelayer-first-sm {
+		order: -1;
+	}
+	.pagelayer-last-sm {
+		order: 1;
+	}
+	
+body.pagelayer-body h1{font-size:35px}
+body.pagelayer-body h2{font-size:31px}
+body.pagelayer-body h3{font-size:25px;color:#000000ff}
+body.pagelayer-body h4{font-size:22px}
+body.pagelayer-body h5{font-size:20px}
+body.pagelayer-body h6{font-size:18px}
+
+}
+@media (max-width: 360px){
+body.pagelayer-body h1{font-size:35px}
+body.pagelayer-body h2{font-size:27px;color:#000000ff}
+body.pagelayer-body h3{font-size:25px}
+body.pagelayer-body h4{font-size:22px;color:#000000ff}
+body.pagelayer-body h5{font-size:20px}
+body.pagelayer-body h6{font-size:18px}
+}
+
+</style><link rel='stylesheet' id='pagelayer-frontend-css'  href='https://www.ezraondaratv.com/site-data/plugins/pagelayer/css/givecss.php?give=pagelayer-frontend.css%2Cnivo-lightbox.css%2Canimate.min.css%2Cowl.carousel.min.css%2Cowl.theme.default.min.css%2Cfont-awesome5.min.css&#038;premium=premium-frontend.css&#038;premium_dir=pagelayer-pro%2Fcss&#038;ver=1.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='sitepad-style-css'  href='https://www.ezraondaratv.com/sitepad-data/themes/realestateneu/style.css?ver=5.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='pagelayer-google-font-header-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A400%7CWork+Sans%3A400%2C600&#038;ver=1.8.5' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.ezraondaratv.com/site-inc/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.ezraondaratv.com/site-inc/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.ezraondaratv.com/site-data/plugins/pagelayer/js/givejs.php?give=pagelayer-frontend.js%2Cnivo-lightbox.min.js%2Cwow.min.js%2Cjquery-numerator.js%2CsimpleParallax.min.js%2Cowl.carousel.min.js&#038;premium=chart.min.js%2Cpremium-frontend.js%2Cshuffle.min.js&#038;premium_dir=pagelayer-pro%2Fjs&#038;ver=1.8.5'></script>
+<meta name="generator" content="SitePad 5.1.6" />
+<link rel="canonical" href="https://www.ezraondaratv.com/" />
+<link rel='shortlink' href='https://www.ezraondaratv.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.ezraondaratv.com/sp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ezraondaratv.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.ezraondaratv.com/sp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ezraondaratv.com%2F&#038;format=xml" />
+<script type="text/javascript">
+
+// Make $ is jQuery
+$ = jQuery;
+
+</script>
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<link rel="icon" href="https://www.ezraondaratv.com/sitepad-data/uploads/2024/04/cropped-logo-2-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.ezraondaratv.com/sitepad-data/uploads/2024/04/cropped-logo-2-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.ezraondaratv.com/sitepad-data/uploads/2024/04/cropped-logo-2-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.ezraondaratv.com/sitepad-data/uploads/2024/04/cropped-logo-2-1-270x270.png" />
+	</head>
+
+	<body class="home page-template-default page page-id-40 wp-custom-logo wp-embed-responsive pagelayer-body">
+		
+	<header class="pagelayer-header"><div pagelayer-id="yy88504" class="p-yy88504 pagelayer-post_props">
+</div>
+<div pagelayer-id="sjv4760" class="p-sjv4760 pagelayer-row pagelayer-row-stretch-full pagelayer-height-default">
+<style pagelayer-style-id="sjv4760">.p-sjv4760>.pagelayer-row-holder .pagelayer-col{align-content: center}
+.p-sjv4760 > .pagelayer-background-overlay{background-color: #182123;opacity: 0.9;-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-sjv4760 .pagelayer-svg-top .pagelayer-shape-fill{fill:#fff}
+.p-sjv4760 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-sjv4760 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#fff}
+.p-sjv4760 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+.p-sjv4760{background-image: url("https://www.ezraondaratv.com/sitepad-data/uploads/2024/04/Untitled-design.png");background-repeat: no-repeat;background-size: cover;padding-top: 0em; padding-right: 0em; padding-bottom: 0em; padding-left: 0em}
+</style>
+			
+			
+			
+			<div class="pagelayer-background-overlay"></div>
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-full">
+<div pagelayer-id="02g6497" class="p-02g6497 pagelayer-col">
+<style pagelayer-style-id="02g6497">.p-02g6497 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-02g6497 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="2te2450" class="p-2te2450 pagelayer-inner_row pagelayer-row-stretch-full pagelayer-height-default">
+<style pagelayer-style-id="2te2450">.p-2te2450 .pagelayer-col-holder{padding: 10px}
+.p-2te2450>.pagelayer-row-holder .pagelayer-col{align-content: default}
+.p-2te2450 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-2te2450 .pagelayer-svg-top .pagelayer-shape-fill{fill:#fff}
+.p-2te2450 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-2te2450 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#fff}
+.p-2te2450 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+.p-2te2450{padding-top: 0px; padding-right: 15px; padding-bottom: 0px; padding-left: 15px}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
+<div pagelayer-id="rk87964" class="p-rk87964 pagelayer-col">
+<style pagelayer-style-id="rk87964">.p-rk87964 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.pagelayer-row-holder .p-rk87964{width: 41.71%}
+.p-rk87964 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="LA8KW8d02MEH61wW" class="p-LA8KW8d02MEH61wW pagelayer-wp_title">
+<style pagelayer-style-id="LA8KW8d02MEH61wW">.p-LA8KW8d02MEH61wW .pagelayer-wp-title-heading{font-family: ; font-size: 26px !important; font-style:  !important; font-weight: 700 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;color:#f5f5f5;text-align:center;padding: 12px 0px 0px 10px}
+.p-LA8KW8d02MEH61wW .pagelayer-wp-title-img{width:27%; height: auto}
+.p-LA8KW8d02MEH61wW{padding-top: 20px; padding-right: 7px; padding-bottom: 18px; padding-left: 7px;border-radius: 0em 0em 0em 0em; -webkit-border-radius: 0em 0em 0em 0em;-moz-border-radius: 0em 0em 0em 0em}
+@media (max-width: 780px) and (min-width: 361px){.p-LA8KW8d02MEH61wW .pagelayer-wp-title-heading{font-family: ; font-size: 21px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;text-align:left}
+.p-LA8KW8d02MEH61wW .pagelayer-wp-title-img{width:27%; height: auto}
+.p-LA8KW8d02MEH61wW{margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px}
+}
+@media (max-width: 360px){.p-LA8KW8d02MEH61wW .pagelayer-wp-title-heading{font-family: ; font-size: 18px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;text-align:center;padding: 1px 1px 1px 1px}
+.p-LA8KW8d02MEH61wW .pagelayer-wp-title-img{width:36%; height: auto}
+}
+</style><div class="pagelayer-wp-title-content">
+			<div class="pagelayer-wp-title-section">
+				<a href="https://www.ezraondaratv.com" class="pagelayer-wp-title-link pagelayer-ele-link pagelayer-wp-title-align-left pagelayer-wp-title-vertical-middle">
+					<img class="pagelayer-img pagelayer-wp-title-img" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/04/logo-2.png" title="logo-2" alt="logo-2" />
+					<div class="pagelayer-wp-title-holder">
+						<div class="pagelayer-wp-title-heading">Ezraondaratv</div>
+						
+					</div>
+				</a>
+			</div>			
+		<div></div></div></div>
+</div></div>
+<div pagelayer-id="8dXJLM2O2OKdjzUV" class="p-8dXJLM2O2OKdjzUV pagelayer-col">
+<style pagelayer-style-id="8dXJLM2O2OKdjzUV">.p-8dXJLM2O2OKdjzUV{align-content: center !important}
+.p-8dXJLM2O2OKdjzUV .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.pagelayer-row-holder .p-8dXJLM2O2OKdjzUV{width: 58.29%}
+.p-8dXJLM2O2OKdjzUV > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+@media (max-width: 780px) and (min-width: 361px){.pagelayer-row-holder .p-8dXJLM2O2OKdjzUV{width: 70%}
+}
+@media (max-width: 360px){.pagelayer-row-holder .p-8dXJLM2O2OKdjzUV{width: 40%}
+}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="TmZkehokAD34cnjJ" class="p-TmZkehokAD34cnjJ pagelayer-wp_menu">
+<style pagelayer-style-id="TmZkehokAD34cnjJ">.p-TmZkehokAD34cnjJ .pagelayer-wp_menu-ul{text-align:right}
+.p-TmZkehokAD34cnjJ .pagelayer-wp-menu-container li.menu-item{list-style: none}
+.p-TmZkehokAD34cnjJ .pagelayer-wp_menu-ul>li a:first-child{color: #f5f5f5}
+.p-TmZkehokAD34cnjJ .pagelayer-wp_menu-ul>li{background-color:  }
+.p-TmZkehokAD34cnjJ .pagelayer-wp_menu-ul>li>a:hover{color:  }
+.p-TmZkehokAD34cnjJ .pagelayer-wp_menu-ul>li.pagelayer-active-sub-menu>a:hover{color:  }
+.p-TmZkehokAD34cnjJ .pagelayer-menu-hover-background .pagelayer-wp_menu-ul>li:hover{background-color: #c99d80}
+.p-TmZkehokAD34cnjJ .pagelayer-wp_menu-ul>li>a:hover:before{background-color: #c99d80;border-color:#c99d80}
+.p-TmZkehokAD34cnjJ .pagelayer-wp_menu-ul>li>a:hover:after{background-color: #c99d80;border-color:#c99d80}
+.p-TmZkehokAD34cnjJ .pagelayer-wp_menu-ul>li.pagelayer-active-sub-menu{background-color: #c99d80}
+.p-TmZkehokAD34cnjJ .pagelayer-wp_menu-ul>li.current-menu-item>a{color: #ffffff}
+.p-TmZkehokAD34cnjJ .pagelayer-wp_menu-ul>li.current-menu-item{background-color:  }
+.p-TmZkehokAD34cnjJ .pagelayer-wp-menu-container ul li.menu-item > a{font-family:  !important; font-size: 15px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform: Uppercase !important; letter-spacing: px !important; word-spacing: px !important}
+.p-TmZkehokAD34cnjJ .pagelayer-wp_menu-ul>li>a{padding-left: 20px;padding-right: 20px;padding-top: 5px;padding-bottom	: 5px}
+.p-TmZkehokAD34cnjJ ul.sub-menu li>a{justify-content:left !important}
+.p-TmZkehokAD34cnjJ .pagelayer-menu-type-horizontal .sub-menu{left:0px}
+.p-TmZkehokAD34cnjJ .pagelayer-menu-type-horizontal .sub-menu .sub-menu{left:unset;left:100% !important;top:0px}
+.p-TmZkehokAD34cnjJ .pagelayer-wp-menu-container ul.sub-menu>li a{color: #ffffff}
+.p-TmZkehokAD34cnjJ .pagelayer-wp-menu-container ul.sub-menu{background-color: #3e8ef7}
+.p-TmZkehokAD34cnjJ .pagelayer-wp-menu-container ul.sub-menu li a{padding-left: 10px;padding-right: 10px;padding-top: 10px;padding-bottom	: 10px}
+.p-TmZkehokAD34cnjJ .pagelayer-wp-menu-container .sub-menu a{margin-left: 10px}
+.p-TmZkehokAD34cnjJ .pagelayer-wp-menu-container .sub-menu .sub-menu a{margin-left: calc(2 * 10px)}
+.p-TmZkehokAD34cnjJ .pagelayer-primary-menu-bar{text-align:center}
+.p-TmZkehokAD34cnjJ .pagelayer-primary-menu-bar i{color:#ffffff;background-color:#f7c331;font-size:30px}
+.p-TmZkehokAD34cnjJ .pagelayer-menu-type-dropdown{width:30%;background-color:#3c3633}
+.p-TmZkehokAD34cnjJ .pagelayer-menu-type-dropdown .pagelayer-wp_menu-ul{width:100%;top: 8%; transform: translateY(-8%)}
+.p-TmZkehokAD34cnjJ .pagelayer-wp_menu-close i{font-size:25px;padding:8px;color:#ffffff;background-color:#f7c331;-webkit-transition: all 600ms !important; transition: all 600ms !important}
+.p-TmZkehokAD34cnjJ .pagelayer-wp_menu-close i:hover{color:#f7c331;background-color:#ffffff}
+.p-TmZkehokAD34cnjJ{margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}
+.p-TmZkehokAD34cnjJ .pagelayer-wp_menu-ul a {
+ justify-content: unset !important; }
+@media screen and (max-width: 768px){
+.pagelayer-menu-type-dropdown .pagelayer-wp_menu-ul{
+margin-top: 60px;
+}
+}
+.p-TmZkehokAD34cnjJ .pagelayer-wp_menu-ul li.current-menu-item a,
+.p-TmZkehokAD34cnjJ .pagelayer-wp_menu-ul li a:hover{
+    border-width: 2px 2px 2px 0px;
+    border-style: solid;
+    border-color: #C99D80;
+}
+.p-TmZkehokAD34cnjJ .pagelayer-wp_menu-ul li a{
+    border: 2px solid #fff;
+}
+@media screen and (max-width: 768px){
+.p-TmZkehokAD34cnjJ .pagelayer-wp_menu-ul li a{
+    border: 2px solid transparent;
+}
+}
+.p-TmZkehokAD34cnjJ .pagelayer-wp_menu-ul li.current-menu-item a,
+.p-TmZkehokAD34cnjJ .pagelayer-wp_menu-ul li a:hover{
+border-radius: 5px; 
+border: 2px solid #F7C331;
+}
+.p-TmZkehokAD34cnjJ .pagelayer-wp_menu-ul li a{
+border: 2px solid transparent;
+}
+@media (max-width: 780px) and (min-width: 361px){.p-TmZkehokAD34cnjJ .pagelayer-wp_menu-ul{text-align:center}
+.p-TmZkehokAD34cnjJ .pagelayer-wp_menu-ul>li a:first-child{color: #ffffff}
+.p-TmZkehokAD34cnjJ .pagelayer-wp_menu-ul>li.current-menu-item>a{color: #fbfbfb}
+.p-TmZkehokAD34cnjJ .pagelayer-primary-menu-bar{text-align:right}
+.p-TmZkehokAD34cnjJ .pagelayer-primary-menu-bar i{font-size:22px;padding:12 {{val[1]}}}
+.p-TmZkehokAD34cnjJ .pagelayer-menu-type-dropdown{width:60%}
+.p-TmZkehokAD34cnjJ{margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px}
+}
+@media (max-width: 360px){.p-TmZkehokAD34cnjJ .pagelayer-wp_menu-ul{text-align:center}
+.p-TmZkehokAD34cnjJ .pagelayer-wp_menu-ul>li a:first-child{color: #fafafa}
+.p-TmZkehokAD34cnjJ .pagelayer-wp_menu-ul>li.current-menu-item>a{color: #f8f9f9}
+.p-TmZkehokAD34cnjJ .pagelayer-primary-menu-bar{text-align:right}
+.p-TmZkehokAD34cnjJ .pagelayer-primary-menu-bar i{font-size:18px;padding:10 {{val[1]}}}
+.p-TmZkehokAD34cnjJ .pagelayer-menu-type-dropdown{width:60%}
+.p-TmZkehokAD34cnjJ .pagelayer-menu-type-dropdown .pagelayer-wp_menu-ul{top: 30%; transform: translateY(-30%)}
+}
+</style><div class="pagelayer-wp-menu-holder" data-layout="horizontal" data-submenu_ind="caret-down" data-drop_breakpoint="tablet">
+			<div class="pagelayer-primary-menu-bar"><i class="fas fa-bars" data-icon="fas fa-bars"></i></div>
+			<div class="pagelayer-wp-menu-container pagelayer-menu-type-horizontal pagelayer-menu-hover- slide pagelayer-wp_menu-right" data-align="right">
+				<div class="pagelayer-wp_menu-close"><i class="fas fa-times"></i></div>
+				<div class="menu-realestateneu-header-menu-container"><ul id="2" class="pagelayer-wp_menu-ul"><li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-40 current_page_item menu-item-42"><a href="https://www.ezraondaratv.com/" aria-current="page"><span class="pagelayer-nav-menu-title">Home</span></a><div class="pagelayer-mega-menu pagelayer-mega-editor-42"></div></li>
+<li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="https://www.ezraondaratv.com/houses/"><span class="pagelayer-nav-menu-title">Houses</span></a><div class="pagelayer-mega-menu pagelayer-mega-editor-44"><div pagelayer-id="ydb8025" class="p-ydb8025 pagelayer-nav_menu_item">
+<div class="pagelayer-menu-item-holder"></div></div>
+</div></li>
+<li id="menu-item-106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-106"><a href="https://www.ezraondaratv.com/services/"><span class="pagelayer-nav-menu-title">Services</span></a><div class="pagelayer-mega-menu pagelayer-mega-editor-106"></div></li>
+<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="https://www.ezraondaratv.com/about/"><span class="pagelayer-nav-menu-title">About</span></a><div class="pagelayer-mega-menu pagelayer-mega-editor-43"></div></li>
+<li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a href="https://www.ezraondaratv.com/contact/"><span class="pagelayer-nav-menu-title">Contact</span></a><div class="pagelayer-mega-menu pagelayer-mega-editor-46"></div></li>
+<li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45"><a href="https://www.ezraondaratv.com/blog/"><span class="pagelayer-nav-menu-title">Blog</span></a><div class="pagelayer-mega-menu pagelayer-mega-editor-45"></div></li>
+</ul></div>
+			</div>
+		</div></div>
+</div></div>
+</div></div>
+<div pagelayer-id="xp26277" class="p-xp26277 pagelayer-inner_row pagelayer-row-stretch-full pagelayer-height-default">
+<style pagelayer-style-id="xp26277">.p-xp26277 .pagelayer-col-holder{padding: 10px}
+.p-xp26277>.pagelayer-row-holder .pagelayer-col{align-content: default}
+.p-xp26277 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-xp26277 .pagelayer-svg-top .pagelayer-shape-fill{fill:#fff}
+.p-xp26277 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-xp26277 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#fff}
+.p-xp26277 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+.p-xp26277{padding-top: 6em; padding-right: 7em; padding-bottom: 4em; padding-left: 7em}
+@media (max-width: 360px){.p-xp26277{padding-top: 2em; padding-right: 2em; padding-bottom: 2em; padding-left: 2em}
+}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-full">
+<div pagelayer-id="e7w9777" class="p-e7w9777 pagelayer-col pagelayer-col-4 fadeInUp pagelayer-wow pagelayer-anim-slowest">
+<style pagelayer-style-id="e7w9777">.p-e7w9777 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-e7w9777 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-e7w9777{-webkit-animation-delay: 600ms; animation-delay: 600ms}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="v1x9284" class="p-v1x9284 pagelayer-heading">
+<style pagelayer-style-id="v1x9284">.p-v1x9284 .pagelayer-heading-holder *{color:#ffffff;font-family:  !important; font-size: 46px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-v1x9284 .pagelayer-heading-holder{color:#ffffff;font-family:  !important; font-size: 46px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+@media (max-width: 360px){.p-v1x9284{text-align: left}
+.p-v1x9284 .pagelayer-heading-holder *{font-family:  !important; font-size: 23px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-v1x9284 .pagelayer-heading-holder{font-family:  !important; font-size: 23px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+}
+</style><div class="pagelayer-heading-holder">We do Real Estate Marketing, Videography &amp; Events Coverage for all people.</div>
+		
+			</div>
+<div pagelayer-id="ht08345" class="p-ht08345 pagelayer-text">
+<div class="pagelayer-text-holder"><p><span style="color: rgb(255, 255, 255);">CALL US (+254) 791055678 For any inquiry</span></p></div></div>
+<div pagelayer-id="6ka8132" class="p-6ka8132 pagelayer-btn">
+<style pagelayer-style-id="6ka8132">.p-6ka8132{text-align: left;margin-top: 35px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px}
+.p-6ka8132 .pagelayer-btn-holder{background-color: rgba(255,255,255,0.00);color: #ffffff;-webkit-transition: all 400ms !important; transition: all 400ms !important;border-color: #ffffff}
+.p-6ka8132 .pagelayer-btn-anim-thin{background-color: unset !important;border-style: unset !important}
+.p-6ka8132 .pagelayer-btn-anim-thin::before{background-color: rgba(255,255,255,0.00)}
+.p-6ka8132 .pagelayer-btn-anim-thin::after{background-color: rgba(255,255,255,0.00)}
+.p-6ka8132 .pagelayer-btn-holder, .p-6ka8132 .pagelayer-btn-anim-thin:after, .p-6ka8132 .pagelayer-btn-anim-thin:before{border-style: solid;border-top-width: 2px; border-right-width: 2px; border-bottom-width: 2px; border-left-width: 2px}
+.p-6ka8132 .pagelayer-btn-holder, .p-6ka8132 .pagelayer-btn-anim-glow:before{border-radius: 25px 25px 25px 25px; -webkit-border-radius:  25px 25px 25px 25px;-moz-border-radius: 25px 25px 25px 25px}
+@media (max-width: 360px){.p-6ka8132 .pagelayer-btn-text{font-family: ; font-size: 10px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-6ka8132 .pagelayer-btn-holder{font-family: ; font-size: 10px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+}
+</style><a class="pagelayer-btn-holder pagelayer-ele-link pagelayer-btn-custom pagelayer-btn-small {{icon_position}}" href="https://www.ezraondaratv.com/services/">
+					
+					<span class="pagelayer-btn-text">Start a project</span>
+					
+				</a></div>
+</div></div>
+<div pagelayer-id="8ll6004" class="p-8ll6004 pagelayer-col pagelayer-col-4 fadeInUp pagelayer-wow pagelayer-anim-slowest">
+<style pagelayer-style-id="8ll6004">.p-8ll6004 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-8ll6004 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-8ll6004{-webkit-animation-delay: 700ms; animation-delay: 700ms}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="uux8999" class="p-uux8999 pagelayer-video">
+<style pagelayer-style-id="uux8999">.p-uux8999 .pagelayer-video-overlay i{color:#c4302b;font-size:80px}
+.p-uux8999{border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+</style><div class="pagelayer-video-holder pagelayer-video-aspect-8-5">
+			<iframe id="embed_video" class="pagelayer-video-iframe" width="100%" height="auto" src="//www.youtube.com/embed/iUhmJwdr90A?&autoplay=0&mute=0&loop=0&playlist=iUhmJwdr90A" frameborder="0"></iframe>
+			<a href="https://youtu.be/iUhmJwdr90A?si=Gcki1n7DaDFFYCB7">
+				<div class="pagelayer-video-overlay" style="background-image:url(https://www.ezraondaratv.com/sitepad-data/uploads/2024/04/Untitled-design-2.png);">
+					<i class="fa fa-youtube-play" aria-hidden="true"></i>
+				</div>
+			</a>
+		</div></div>
+<div pagelayer-id="5bn222" class="p-5bn222 pagelayer-inner_row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="5bn222">.p-5bn222 .pagelayer-col-holder{padding: 10px}
+.p-5bn222 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-5bn222 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
+.p-5bn222 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-5bn222 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
+.p-5bn222 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
+<div pagelayer-id="pto5867" class="p-pto5867 pagelayer-col">
+<style pagelayer-style-id="pto5867">.p-pto5867 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-pto5867 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="ehn1731" class="p-ehn1731 pagelayer-btn">
+<style pagelayer-style-id="ehn1731">.p-ehn1731 .pagelayer-btn-text{font-family: ; font-size: px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-ehn1731 .pagelayer-btn-holder{font-family: ; font-size: px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;background-color: #ce3232;color: #ffffff;-webkit-transition: all 400ms !important; transition: all 400ms !important;border-color: #42414f}
+.p-ehn1731{text-align: center}
+.p-ehn1731 .pagelayer-btn-anim-thin{background-color: unset !important;border-style: unset !important}
+.p-ehn1731 .pagelayer-btn-anim-thin::before{background-color: #ce3232}
+.p-ehn1731 .pagelayer-btn-anim-thin::after{background-color: #ce3232}
+.p-ehn1731 .pagelayer-btn-holder, .p-ehn1731 .pagelayer-btn-anim-thin:after, .p-ehn1731 .pagelayer-btn-anim-thin:before{border-style: solid;border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px}
+.p-ehn1731 .pagelayer-btn-holder, .p-ehn1731 .pagelayer-btn-anim-glow:before{border-radius: 30px 30px 30px 30px; -webkit-border-radius:  30px 30px 30px 30px;-moz-border-radius: 30px 30px 30px 30px}
+@media (max-width: 360px){.p-ehn1731 .pagelayer-btn-text{font-family: ; font-size: 12px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-ehn1731 .pagelayer-btn-holder{font-family: ; font-size: 12px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-ehn1731{text-align: left}
+}
+</style><a class="pagelayer-btn-holder pagelayer-ele-link pagelayer-btn-custom pagelayer-btn-small {{icon_position}}" href="https://www.ezraondaratv.com/contact/">
+					
+					<span class="pagelayer-btn-text">Leave A Message</span>
+					
+				</a></div>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+
+	</header>
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+			
+<article id="post-40" class="post-40 page type-page status-publish hentry">
+	
+	<div class="entry-content">
+		<div pagelayer-id="29g1616" class="p-29g1616 pagelayer-post_props">
+</div>
+<div pagelayer-id="ac81181" class="p-ac81181 pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="ac81181">.p-ac81181 .pagelayer-col-holder{padding: 10px}
+.p-ac81181 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-ac81181 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
+.p-ac81181 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-ac81181 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
+.p-ac81181 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
+<div pagelayer-id="jit8691" class="p-jit8691 pagelayer-col">
+<style pagelayer-style-id="jit8691">.p-jit8691 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-jit8691 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="ako1107" class="p-ako1107 pagelayer-heading" align="center">
+<style pagelayer-style-id="ako1107">.p-ako1107{text-align: center;background: #000000;margin-top: 10px; margin-right: 10px; margin-bottom: 10px; margin-left: 10px;padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}
+.p-ako1107 .pagelayer-heading-holder *{color:#ececec}
+.p-ako1107 .pagelayer-heading-holder{color:#ececec}
+</style><div class="pagelayer-heading-holder"><h2>upcoming gated community</h2></div>
+		
+			</div>
+</div></div>
+</div></div>
+<div pagelayer-id="lbb2000" class="p-lbb2000 pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="lbb2000">.p-lbb2000 .pagelayer-col-holder{padding: 10px}
+.p-lbb2000 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-lbb2000 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
+.p-lbb2000 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-lbb2000 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
+.p-lbb2000 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
+<div pagelayer-id="ou69480" class="p-ou69480 pagelayer-col pagelayer-col-6">
+<style pagelayer-style-id="ou69480">.p-ou69480 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-ou69480{padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 30px;border-style: solid;border-top-width: 2px; border-right-width: 2px; border-bottom-width: 2px; border-left-width: 2px;border-color: #fabc8b;border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+@media (max-width: 780px) and (min-width: 361px){.p-ou69480{margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;padding-top: 15px; padding-right: 15px; padding-bottom: 15px; padding-left: 15px}
+}
+@media (max-width: 360px){.p-ou69480{margin-top: 20px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;padding-top: 20px; padding-right: 10px; padding-bottom: 20px; padding-left: 10px}
+}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="7cc8701" class="p-7cc8701 pagelayer-heading fadeInLeft pagelayer-wow pagelayer-anim-slow" align="center">
+<style pagelayer-style-id="7cc8701">.p-7cc8701{text-align: center;background: #000000;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: -120px;padding-top: 10px; padding-right: 20px; padding-bottom: 10px; padding-left: 20px;z-index: 10 !important; position: relative;box-shadow: 3px 3px 6px 0px #231f20  !important;width:165px !important;position:relative; left:margin; transform:translateX(-margin);height:auto;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-7cc8701 .pagelayer-heading-holder *{color:#ffffff;font-family: Cabin !important; font-size: 22px !important; font-style: Normal !important; font-weight: bolder !important; font-variant: Normal !important; text-decoration-line: None !important; text-decoration-style: Solid !important; line-height: 1.2em !important; text-transform: Uppercase !important; letter-spacing: 0px !important; word-spacing: 0px !important}
+.p-7cc8701 .pagelayer-heading-holder{color:#ffffff;font-family: Cabin !important; font-size: 22px !important; font-style: Normal !important; font-weight: bolder !important; font-variant: Normal !important; text-decoration-line: None !important; text-decoration-style: Solid !important; line-height: 1.2em !important; text-transform: Uppercase !important; letter-spacing: 0px !important; word-spacing: 0px !important}
+@media (max-width: 780px) and (min-width: 361px){.p-7cc8701{margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;padding-top: 10px; padding-right: 0px; padding-bottom: 10px; padding-left: 0px}
+}
+@media (max-width: 360px){.p-7cc8701{margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;padding-top: 5px; padding-right: 0px; padding-bottom: 5px; padding-left: 0px}
+}
+</style><div class="pagelayer-heading-holder"><p>U-Park villas lanet</p></div>
+		
+			</div>
+<div pagelayer-id="hcn9873" class="p-hcn9873 pagelayer-image_slider">
+<style pagelayer-style-id="hcn9873">.p-hcn9873 .pagelayer-owl-prev{background-color: #6a6969 !important;color: #ffffff !important;width: 20px; height: 20px;border-radius: 20% !important}
+.p-hcn9873 .pagelayer-owl-next{background-color: #6a6969 !important;color: #ffffff !important;width: 20px; height: 20px;border-radius: 20% !important}
+.p-hcn9873{margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px}
+</style><div class="pagelayer-image-slider-div">
+			<ul class="pagelayer-image-slider-ul pagelayer-owl-holder pagelayer-owl-carousel pagelayer-owl-theme" data-slides-items="1" data-slides-autoplay-timeout="5000" data-slides-smart-speed="800" data-slides-loop="true" data-slides-autoplay="true" data-slides-autoplay-hover-pause="true"><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0044.jpg" title="IMG-20240718-WA0044" alt="IMG-20240718-WA0044" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0043.jpg" title="IMG-20240718-WA0043" alt="IMG-20240718-WA0043" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0042.jpg" title="IMG-20240718-WA0042" alt="IMG-20240718-WA0042" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0041.jpg" title="IMG-20240718-WA0041" alt="IMG-20240718-WA0041" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0040.jpg" title="IMG-20240718-WA0040" alt="IMG-20240718-WA0040" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0039.jpg" title="IMG-20240718-WA0039" alt="IMG-20240718-WA0039" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0038.jpg" title="IMG-20240718-WA0038" alt="IMG-20240718-WA0038" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0037.jpg" title="IMG-20240718-WA0037" alt="IMG-20240718-WA0037" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0036.jpg" title="IMG-20240718-WA0036" alt="IMG-20240718-WA0036" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0035.jpg" title="IMG-20240718-WA0035" alt="IMG-20240718-WA0035" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0034.jpg" title="IMG-20240718-WA0034" alt="IMG-20240718-WA0034" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0033.jpg" title="IMG-20240718-WA0033" alt="IMG-20240718-WA0033" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0032.jpg" title="IMG-20240718-WA0032" alt="IMG-20240718-WA0032" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0031.jpg" title="IMG-20240718-WA0031" alt="IMG-20240718-WA0031" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0030.jpg" title="IMG-20240718-WA0030" alt="IMG-20240718-WA0030" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0029.jpg" title="IMG-20240718-WA0029" alt="IMG-20240718-WA0029" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0028.jpg" title="IMG-20240718-WA0028" alt="IMG-20240718-WA0028" /></li><li class="pagelayer-slider-item"><img class="pagelayer-img" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0027.jpg" title="IMG-20240718-WA0027" alt="IMG-20240718-WA0027" /></li></ul>
+		</div></div>
+</div></div>
+</div></div>
+<div pagelayer-id="PAlnWQJkoPVveIgs" class="p-PAlnWQJkoPVveIgs pagelayer-row pagelayer-row-stretch-fixed pagelayer-height-default">
+<style pagelayer-style-id="PAlnWQJkoPVveIgs">.p-PAlnWQJkoPVveIgs{max-width: 1568px; margin-left: auto !important; margin-right: auto !important;padding-top: 40px; padding-right: 0px; padding-bottom: 40px; padding-left: 0px}
+.p-PAlnWQJkoPVveIgs .pagelayer-col-holder{padding: 1px}
+.p-PAlnWQJkoPVveIgs > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-PAlnWQJkoPVveIgs .pagelayer-svg-top .pagelayer-shape-fill{fill:#fff}
+.p-PAlnWQJkoPVveIgs .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-PAlnWQJkoPVveIgs .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#fff}
+.p-PAlnWQJkoPVveIgs .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+@media (max-width: 780px) and (min-width: 361px){.p-PAlnWQJkoPVveIgs{padding-top: 40px; padding-right: 15px; padding-bottom: 20px; padding-left: 15px}
+}
+@media (max-width: 360px){.p-PAlnWQJkoPVveIgs{padding-top: 40px; padding-right: 10px; padding-bottom: 20px; padding-left: 10px}
+}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-full">
+<div pagelayer-id="szt4525" class="p-szt4525 pagelayer-col pagelayer-col-6">
+<style pagelayer-style-id="szt4525">.p-szt4525 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-szt4525{padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;border-style: solid;border-top-width: 2px; border-right-width: 2px; border-bottom-width: 2px; border-left-width: 2px;border-color: #fabc8b;border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+@media (max-width: 780px) and (min-width: 361px){.p-szt4525{margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;padding-top: 15px; padding-right: 15px; padding-bottom: 15px; padding-left: 15px}
+}
+@media (max-width: 360px){.p-szt4525{margin-top: 20px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;padding-top: 20px; padding-right: 10px; padding-bottom: 20px; padding-left: 10px}
+}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="y12997" class="p-y12997 pagelayer-inner_row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="y12997">.p-y12997 .pagelayer-col-holder{padding: 10px}
+.p-y12997 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-y12997 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
+.p-y12997 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-y12997 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
+.p-y12997 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto"></div></div>
+<div pagelayer-id="ijj1071" class="p-ijj1071 pagelayer-inner_row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="ijj1071">.p-ijj1071 .pagelayer-col-holder{padding: 10px}
+.p-ijj1071 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-ijj1071 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
+.p-ijj1071 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-ijj1071 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
+.p-ijj1071 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
+<div pagelayer-id="thq6913" class="p-thq6913 pagelayer-col">
+<style pagelayer-style-id="thq6913">.p-thq6913 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.pagelayer-row-holder .p-thq6913{width: 33.33%}
+.p-thq6913 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="roj5355" class="p-roj5355 pagelayer-image">
+<style pagelayer-style-id="roj5355">.p-roj5355 .pagelayer-image-holder{text-align: center}
+.p-roj5355 .pagelayer-image-holder .pagelayer-image-overlay-content{text-align: center}
+.p-roj5355 .pagelayer-img{-webkit-transition: all 400ms; transition: all 400ms}
+.p-roj5355 .pagelayer-image-caption{color: #0986c0}
+</style><div class="pagelayer-image-holder pagelayer-anim-par">
+			
+				<img class="pagelayer-img pagelayer-animation-{{anim_hover}}" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0038.jpg" title="IMG-20240718-WA0038" alt="IMG-20240718-WA0038" srcset="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0038.jpg, https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0038.jpg 1x, " />
+				
+			
+		</div>
+		</div>
+</div></div>
+</div></div>
+<div pagelayer-id="usw485" class="p-usw485 pagelayer-heading" align="left">
+<style pagelayer-style-id="usw485">.p-usw485{text-align: left;margin-top: -5px; margin-right: -5px; margin-bottom: -5px; margin-left: -5px;padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px}
+.p-usw485 .pagelayer-heading-holder *{color:#c82d2d}
+.p-usw485 .pagelayer-heading-holder{color:#c82d2d}
+</style><div class="pagelayer-heading-holder"><h2>Modern maisonette for sale</h2><h3>&nbsp; &nbsp; inside a gated community</h3><h3>&nbsp; &nbsp; kshs 14,950,000 <br />&nbsp; &nbsp; lanet, nakuru</h3></div>
+		
+			</div>
+</div></div>
+<div pagelayer-id="WIPDLKQPGjldFL1Q" class="p-WIPDLKQPGjldFL1Q pagelayer-col pagelayer-col-6">
+<style pagelayer-style-id="WIPDLKQPGjldFL1Q">.p-WIPDLKQPGjldFL1Q > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-WIPDLKQPGjldFL1Q{padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;border-style: solid;border-top-width: 2px; border-right-width: 2px; border-bottom-width: 2px; border-left-width: 2px;border-color: #fabc8b;border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+@media (max-width: 780px) and (min-width: 361px){.p-WIPDLKQPGjldFL1Q{margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;padding-top: 15px; padding-right: 15px; padding-bottom: 15px; padding-left: 15px}
+}
+@media (max-width: 360px){.p-WIPDLKQPGjldFL1Q{margin-top: 20px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;padding-top: 20px; padding-right: 10px; padding-bottom: 20px; padding-left: 10px}
+}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="nlk3533" class="p-nlk3533 pagelayer-heading" align="left">
+<style pagelayer-style-id="nlk3533">.p-nlk3533{text-align: left}
+</style><div class="pagelayer-heading-holder"><h2>features</h2></div>
+		
+			</div>
+<div pagelayer-id="rnl7175" class="p-rnl7175 pagelayer-inner_row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="rnl7175">.p-rnl7175 .pagelayer-col-holder{padding: 10px}
+.p-rnl7175 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-rnl7175 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
+.p-rnl7175 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-rnl7175 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
+.p-rnl7175 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
+<div pagelayer-id="00e5919" class="p-00e5919 pagelayer-col pagelayer-col-6">
+<style pagelayer-style-id="00e5919">.p-00e5919 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-00e5919 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="g9a6475" class="p-g9a6475 pagelayer-heading" align="left">
+<style pagelayer-style-id="g9a6475">.p-g9a6475{text-align: left;background: #9b2929;margin-top: 10px; margin-right: 10px; margin-bottom: 10px; margin-left: 10px;padding-top: 20px; padding-right: 20px; padding-bottom: 20px; padding-left: 20px}
+.p-g9a6475 .pagelayer-heading-holder *{color:#ffffff}
+.p-g9a6475 .pagelayer-heading-holder{color:#ffffff}
+</style><div class="pagelayer-heading-holder"><h5><li>Spacious living room and dining area</li></h5><h5><li>Modern kitchen with a pantry</li><li>Master Ensuite bedroom with a walk-in closet</li><li>Separate DSQ for flexibility and convenience</li><li>Secure Gated Community with perimeter wall</li><li>Children playground</li><li>Unlimited borehole water supply</li><li>Serene neighbourhood with carbro paved driveways</li><li>Conveniently located 1.8km from Lanet primary school (Adomigo oil junction) <br />&nbsp; &nbsp; &nbsp;and proposed Nakuru City International Airport entrace</li><li>Show house construction ongoing</li></h5></div>
+		
+			</div>
+</div></div>
+</div></div>
+<div pagelayer-id="vpi456" class="p-vpi456 pagelayer-inner_row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="vpi456">.p-vpi456 .pagelayer-col-holder{padding: 10px}
+.p-vpi456 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-vpi456 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
+.p-vpi456 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-vpi456 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
+.p-vpi456 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
+<div pagelayer-id="qg31116" class="p-qg31116 pagelayer-col">
+<style pagelayer-style-id="qg31116">.p-qg31116 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.pagelayer-row-holder .p-qg31116{width: 33.33%}
+.p-qg31116 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="dwv9865" class="p-dwv9865 pagelayer-image">
+<style pagelayer-style-id="dwv9865">.p-dwv9865 .pagelayer-image-holder{text-align: center}
+.p-dwv9865 .pagelayer-image-holder .pagelayer-image-overlay-content{text-align: center}
+.p-dwv9865 .pagelayer-img{-webkit-transition: all 400ms; transition: all 400ms}
+.p-dwv9865 .pagelayer-image-caption{color: #0986c0}
+</style><div class="pagelayer-image-holder pagelayer-anim-par">
+			
+				<img class="pagelayer-img pagelayer-animation-{{anim_hover}}" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0035.jpg" title="IMG-20240718-WA0035" alt="IMG-20240718-WA0035" srcset="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0035.jpg, https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0035.jpg 1x, " />
+				
+			
+		</div>
+		</div>
+</div></div>
+<div pagelayer-id="hr78807" class="p-hr78807 pagelayer-col">
+<style pagelayer-style-id="hr78807">.p-hr78807 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.pagelayer-row-holder .p-hr78807{width: 33.34%}
+.p-hr78807 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="qhm9987" class="p-qhm9987 pagelayer-image">
+<style pagelayer-style-id="qhm9987">.p-qhm9987 .pagelayer-image-holder{text-align: center}
+.p-qhm9987 .pagelayer-image-holder .pagelayer-image-overlay-content{text-align: center}
+.p-qhm9987 .pagelayer-img{-webkit-transition: all 400ms; transition: all 400ms}
+.p-qhm9987 .pagelayer-image-caption{color: #0986c0}
+</style><div class="pagelayer-image-holder pagelayer-anim-par">
+			
+				<img class="pagelayer-img pagelayer-animation-{{anim_hover}}" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0039.jpg" title="IMG-20240718-WA0039" alt="IMG-20240718-WA0039" srcset="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0039.jpg, https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0039.jpg 1x, " />
+				
+			
+		</div>
+		</div>
+</div></div>
+<div pagelayer-id="9x25333" class="p-9x25333 pagelayer-col pagelayer-col-4">
+<style pagelayer-style-id="9x25333">.p-9x25333 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-9x25333 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="hvu6246" class="p-hvu6246 pagelayer-image">
+<style pagelayer-style-id="hvu6246">.p-hvu6246 .pagelayer-image-holder{text-align: center}
+.p-hvu6246 .pagelayer-image-holder .pagelayer-image-overlay-content{text-align: center}
+.p-hvu6246 .pagelayer-img{-webkit-transition: all 400ms; transition: all 400ms}
+.p-hvu6246 .pagelayer-image-caption{color: #0986c0}
+</style><div class="pagelayer-image-holder pagelayer-anim-par">
+			
+				<img class="pagelayer-img pagelayer-animation-{{anim_hover}}" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0034.jpg" title="IMG-20240718-WA0034" alt="IMG-20240718-WA0034" srcset="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0034.jpg, https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0034.jpg 1x, " />
+				
+			
+		</div>
+		</div>
+</div></div>
+</div></div>
+<div pagelayer-id="t3p3994" class="p-t3p3994 pagelayer-inner_row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="t3p3994">.p-t3p3994 .pagelayer-col-holder{padding: 10px}
+.p-t3p3994 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-t3p3994 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
+.p-t3p3994 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-t3p3994 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
+.p-t3p3994 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
+<div pagelayer-id="i7n2041" class="p-i7n2041 pagelayer-col">
+<style pagelayer-style-id="i7n2041">.p-i7n2041 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.pagelayer-row-holder .p-i7n2041{width: 33.33%}
+.p-i7n2041 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="d5e5936" class="p-d5e5936 pagelayer-image">
+<style pagelayer-style-id="d5e5936">.p-d5e5936 .pagelayer-image-holder{text-align: center}
+.p-d5e5936 .pagelayer-image-holder .pagelayer-image-overlay-content{text-align: center}
+.p-d5e5936 .pagelayer-img{-webkit-transition: all 400ms; transition: all 400ms}
+.p-d5e5936 .pagelayer-image-caption{color: #0986c0}
+</style><div class="pagelayer-image-holder pagelayer-anim-par">
+			
+				<img class="pagelayer-img pagelayer-animation-{{anim_hover}}" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0030.jpg" title="IMG-20240718-WA0030" alt="IMG-20240718-WA0030" srcset="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0030.jpg, https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0030.jpg 1x, " />
+				
+			
+		</div>
+		</div>
+</div></div>
+<div pagelayer-id="yqz1401" class="p-yqz1401 pagelayer-col">
+<style pagelayer-style-id="yqz1401">.p-yqz1401 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.pagelayer-row-holder .p-yqz1401{width: 33.34%}
+.p-yqz1401 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="lbx947" class="p-lbx947 pagelayer-image">
+<style pagelayer-style-id="lbx947">.p-lbx947 .pagelayer-image-holder{text-align: center}
+.p-lbx947 .pagelayer-image-holder .pagelayer-image-overlay-content{text-align: center}
+.p-lbx947 .pagelayer-img{-webkit-transition: all 400ms; transition: all 400ms}
+.p-lbx947 .pagelayer-image-caption{color: #0986c0}
+</style><div class="pagelayer-image-holder pagelayer-anim-par">
+			
+				<img class="pagelayer-img pagelayer-animation-{{anim_hover}}" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0031.jpg" title="IMG-20240718-WA0031" alt="IMG-20240718-WA0031" srcset="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0031.jpg, https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0031.jpg 1x, " />
+				
+			
+		</div>
+		</div>
+</div></div>
+<div pagelayer-id="yuc589" class="p-yuc589 pagelayer-col pagelayer-col-4">
+<style pagelayer-style-id="yuc589">.p-yuc589 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-yuc589 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="jao8432" class="p-jao8432 pagelayer-image">
+<style pagelayer-style-id="jao8432">.p-jao8432 .pagelayer-image-holder{text-align: center}
+.p-jao8432 .pagelayer-image-holder .pagelayer-image-overlay-content{text-align: center}
+.p-jao8432 .pagelayer-img{-webkit-transition: all 400ms; transition: all 400ms}
+.p-jao8432 .pagelayer-image-caption{color: #0986c0}
+</style><div class="pagelayer-image-holder pagelayer-anim-par">
+			
+				<img class="pagelayer-img pagelayer-animation-{{anim_hover}}" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0041.jpg" title="IMG-20240718-WA0041" alt="IMG-20240718-WA0041" srcset="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0041.jpg, https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0041.jpg 1x, " />
+				
+			
+		</div>
+		</div>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+<div pagelayer-id="1VcE0elJ" class="p-1VcE0elJ pagelayer-row pagelayer-row-stretch-full pagelayer-height-default">
+<style pagelayer-style-id="1VcE0elJ">.p-1VcE0elJ .pagelayer-col-holder{padding: 10px}
+.p-1VcE0elJ > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-1VcE0elJ .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
+.p-1VcE0elJ .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-1VcE0elJ .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
+.p-1VcE0elJ .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+.p-1VcE0elJ{padding-top: 70px; padding-right: 0px; padding-bottom: 70px; padding-left: 0px}
+@media (max-width: 780px) and (min-width: 361px){.p-1VcE0elJ{padding-top: 50px; padding-right: 0px; padding-bottom: 50px; padding-left: 0px}
+}
+@media (max-width: 360px){.p-1VcE0elJ{padding-top: 30px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px}
+}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-full">
+<div pagelayer-id="A2fKRNrA" class="p-A2fKRNrA pagelayer-col">
+<style pagelayer-style-id="A2fKRNrA">.p-A2fKRNrA .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-A2fKRNrA > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="ZYdrHhcP" class="p-ZYdrHhcP pagelayer-inner_row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="ZYdrHhcP">.p-ZYdrHhcP .pagelayer-col-holder{padding: 10px}
+.p-ZYdrHhcP > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-ZYdrHhcP .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
+.p-ZYdrHhcP .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-ZYdrHhcP .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
+.p-ZYdrHhcP .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+.p-ZYdrHhcP{padding-top: 0px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
+<div pagelayer-id="iZp0vWup" class="p-iZp0vWup pagelayer-col pagelayer-col-3">
+<style pagelayer-style-id="iZp0vWup">.p-iZp0vWup > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="GSjF2LqE" class="p-GSjF2LqE pagelayer-heading">
+<div class="pagelayer-heading-holder"><h2>featured properties</h2></div>
+		
+			</div>
+</div></div>
+</div></div>
+<div pagelayer-id="laf1rKaH" class="p-laf1rKaH pagelayer-inner_row pagelayer-row-stretch-full pagelayer-height-default">
+<style pagelayer-style-id="laf1rKaH">.p-laf1rKaH .pagelayer-col-holder{padding: 60px}
+.p-laf1rKaH>.pagelayer-row-holder{max-width: 1318px; margin-left: auto; margin-right: auto}
+.p-laf1rKaH > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-laf1rKaH .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
+.p-laf1rKaH .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-laf1rKaH .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
+.p-laf1rKaH .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-fixed">
+<div pagelayer-id="JTY3xWkU" class="p-JTY3xWkU pagelayer-col pagelayer-col-4">
+<style pagelayer-style-id="JTY3xWkU">.p-JTY3xWkU .pagelayer-col-holder > div:not(:last-child){margin-bottom: 50px}
+.p-JTY3xWkU > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="5vk6041" class="p-5vk6041 pagelayer-call pagelayer-cta-layout-overlay pagelayer-cta-align-flex-end">
+<style pagelayer-style-id="5vk6041">.p-5vk6041 .pagelayer-cta-image{min-height: 350px}
+.p-5vk6041 .pagelayer-cta-image:before{background-color: #333333;opacity: 0.3}
+.p-5vk6041 .pagelayer-cta-image:before, .p-5vk6041 .pagelayer-cta-image{transition: all 800ms}
+.p-5vk6041:hover .pagelayer-cta-image:before{background-color: #333333;opacity: 0.1}
+.p-5vk6041 .pagelayer-cta-heading{color: #ffffff;font-family: Work Sans !important; font-size: 18px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.6em !important; text-transform: Uppercase !important; letter-spacing: px !important; word-spacing: px !important;transition: all 800ms}
+.p-5vk6041 .pagelayer-cta-subheading{color: #ffffff;font-family:  !important; font-size: 14px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;transition: all 800ms}
+.p-5vk6041 .pagelayer-cta-content{padding-top: 25px; padding-right: 25px; padding-bottom: 25px; padding-left: 25px}
+.p-5vk6041 .pagelayer-cta-content-holder{text-align: left;align-items: flex-end;transition: all 800ms}
+.p-5vk6041 .pagelayer-btn-holder{padding: 0px 0px;color: #ffffff;-webkit-transition: all 400ms !important; transition: all 400ms !important;border-style: solid;border-color: #ff4217;border-top-width: 0px; border-right-width: 0px; border-bottom-width: 2px; border-left-width: 0px;border-radius: 0px 0px 0px 0px; -webkit-border-radius:  0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+</style>
+				<div class="pagelayer-cta-img-holder">
+					<div class="pagelayer-cta-image" style="background-image: url('https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/Untitled-image-1.jpeg');">
+					</div>
+				</div>
+				<div class="pagelayer-cta-content-holder">
+					<div class="pagelayer-cta-content">
+						<div class="pagelayer-cta-heading">BURSWOOD APARTMENTS</div>
+						
+						<div class="pagelayer-cta-text"><h5><span style="color: rgb(255, 255, 255);">MILIMANI, NAKURU</span></h5></div>
+						
+					</div>
+				</div></div>
+<div pagelayer-id="rd4JBPQn" class="p-rd4JBPQn pagelayer-call pagelayer-cta-layout-overlay pagelayer-cta-align-flex-end">
+<style pagelayer-style-id="rd4JBPQn">.p-rd4JBPQn .pagelayer-cta-image{min-height: 350px}
+.p-rd4JBPQn .pagelayer-cta-image:before{background-color: #333333;opacity: 0.3}
+.p-rd4JBPQn .pagelayer-cta-image:before, .p-rd4JBPQn .pagelayer-cta-image{transition: all 800ms}
+.p-rd4JBPQn:hover .pagelayer-cta-image:before{background-color: #333333;opacity: 0.1}
+.p-rd4JBPQn .pagelayer-cta-heading{color: #ffffff;font-family: Work Sans !important; font-size: 18px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.6em !important; text-transform: Uppercase !important; letter-spacing: px !important; word-spacing: px !important;transition: all 800ms}
+.p-rd4JBPQn .pagelayer-cta-subheading{color: #ffffff;font-family:  !important; font-size: 14px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;transition: all 800ms}
+.p-rd4JBPQn .pagelayer-cta-content{padding-top: 25px; padding-right: 25px; padding-bottom: 25px; padding-left: 25px}
+.p-rd4JBPQn .pagelayer-cta-content-holder{text-align: left;align-items: flex-end;transition: all 800ms}
+.p-rd4JBPQn .pagelayer-btn-holder{padding: 0px 0px;color: #ffffff;-webkit-transition: all 400ms !important; transition: all 400ms !important;border-style: solid;border-color: #ff4217;border-top-width: 0px; border-right-width: 0px; border-bottom-width: 2px; border-left-width: 0px;border-radius: 0px 0px 0px 0px; -webkit-border-radius:  0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+</style>
+				<div class="pagelayer-cta-img-holder">
+					<div class="pagelayer-cta-image" style="background-image: url('https://www.ezraondaratv.com/sitepad-data/uploads/2024/04/Modern-Views.png');">
+					</div>
+				</div>
+				<div class="pagelayer-cta-content-holder">
+					<div class="pagelayer-cta-content">
+						<div class="pagelayer-cta-heading">rhema court apartments</div>
+						
+						<div class="pagelayer-cta-text"><h5><span style="color: rgb(255, 255, 255);">PIPELINE, NAKURU</span></h5></div>
+						
+					</div>
+				</div></div>
+</div></div>
+<div pagelayer-id="7it1934" class="p-7it1934 pagelayer-col pagelayer-col-4">
+<style pagelayer-style-id="7it1934">.p-7it1934 .pagelayer-col-holder > div:not(:last-child){margin-bottom: 50px}
+.p-7it1934 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="6en1069" class="p-6en1069 pagelayer-call pagelayer-cta-layout-overlay pagelayer-cta-align-flex-end">
+<style pagelayer-style-id="6en1069">.p-6en1069 .pagelayer-cta-image{min-height: 350px}
+.p-6en1069 .pagelayer-cta-image:before{background-color: #333333;opacity: 0.3}
+.p-6en1069 .pagelayer-cta-image:before, .p-6en1069 .pagelayer-cta-image{transition: all 800ms}
+.p-6en1069:hover .pagelayer-cta-image:before{background-color: #333333;opacity: 0.1}
+.p-6en1069 .pagelayer-cta-heading{color: #ffffff;font-family: Work Sans !important; font-size: 18px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.6em !important; text-transform: Uppercase !important; letter-spacing: px !important; word-spacing: px !important;transition: all 800ms}
+.p-6en1069 .pagelayer-cta-subheading{color: #ffffff;font-family:  !important; font-size: 14px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;transition: all 800ms}
+.p-6en1069 .pagelayer-cta-content{padding-top: 25px; padding-right: 25px; padding-bottom: 25px; padding-left: 25px}
+.p-6en1069 .pagelayer-cta-content-holder{text-align: left;align-items: flex-end;transition: all 800ms}
+.p-6en1069 .pagelayer-btn-holder{padding: 0px 0px;color: #ffffff;-webkit-transition: all 400ms !important; transition: all 400ms !important;border-style: solid;border-color: #ff4217;border-top-width: 0px; border-right-width: 0px; border-bottom-width: 2px; border-left-width: 0px;border-radius: 0px 0px 0px 0px; -webkit-border-radius:  0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+</style>
+				<div class="pagelayer-cta-img-holder">
+					<div class="pagelayer-cta-image" style="background-image: url('https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/Untitled-image.jpeg');">
+					</div>
+				</div>
+				<div class="pagelayer-cta-content-holder">
+					<div class="pagelayer-cta-content">
+						<div class="pagelayer-cta-heading">BETSAM APARTMENTS</div>
+						
+						<div class="pagelayer-cta-text"><h5><span style="color: rgb(255, 255, 255);">NAKA, NAKURU</span></h5></div>
+						
+					</div>
+				</div></div>
+<div pagelayer-id="jbu3952" class="p-jbu3952 pagelayer-call pagelayer-cta-layout-overlay pagelayer-cta-align-flex-end">
+<style pagelayer-style-id="jbu3952">.p-jbu3952 .pagelayer-cta-image{min-height: 350px}
+.p-jbu3952 .pagelayer-cta-image:before{background-color: #333333;opacity: 0.3}
+.p-jbu3952 .pagelayer-cta-image:before, .p-jbu3952 .pagelayer-cta-image{transition: all 800ms}
+.p-jbu3952:hover .pagelayer-cta-image:before{background-color: #333333;opacity: 0.1}
+.p-jbu3952 .pagelayer-cta-heading{color: #ffffff;font-family: Work Sans !important; font-size: 18px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: 1.6em !important; text-transform: Uppercase !important; letter-spacing: px !important; word-spacing: px !important;transition: all 800ms}
+.p-jbu3952 .pagelayer-cta-subheading{color: #ffffff;font-family:  !important; font-size: 14px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;transition: all 800ms}
+.p-jbu3952 .pagelayer-cta-content{padding-top: 25px; padding-right: 25px; padding-bottom: 25px; padding-left: 25px}
+.p-jbu3952 .pagelayer-cta-content-holder{text-align: left;align-items: flex-end;transition: all 800ms}
+.p-jbu3952 .pagelayer-btn-holder{padding: 0px 0px;color: #ffffff;-webkit-transition: all 400ms !important; transition: all 400ms !important;border-style: solid;border-color: #ff4217;border-top-width: 0px; border-right-width: 0px; border-bottom-width: 2px; border-left-width: 0px;border-radius: 0px 0px 0px 0px; -webkit-border-radius:  0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+</style>
+				<div class="pagelayer-cta-img-holder">
+					<div class="pagelayer-cta-image" style="background-image: url('https://www.ezraondaratv.com/sitepad-data/uploads/2024/04/2-Bedroom-26000-Kshs.png');">
+					</div>
+				</div>
+				<div class="pagelayer-cta-content-holder">
+					<div class="pagelayer-cta-content">
+						<div class="pagelayer-cta-heading">Lumag Uptown Apartments</div>
+						
+						<div class="pagelayer-cta-text"><h5><span style="color: rgb(255, 255, 255);">KIAMUNYI, NAKURU</span></h5></div>
+						
+					</div>
+				</div></div>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+<div pagelayer-id="JqbpRw77" class="p-JqbpRw77 pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="JqbpRw77">.p-JqbpRw77 .pagelayer-col-holder{padding: 10px}
+.p-JqbpRw77 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-JqbpRw77 .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
+.p-JqbpRw77 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-JqbpRw77 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
+.p-JqbpRw77 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+.p-JqbpRw77{background-image: url("https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/20240614062112_IMG_0336.jpg");background-position-x: center;background-position-y: center;padding-top: 70px; padding-right: 0px; padding-bottom: 70px; padding-left: 0px}
+@media (max-width: 780px) and (min-width: 361px){.p-JqbpRw77{padding-top: 50px; padding-right: 0px; padding-bottom: 50px; padding-left: 0px}
+}
+@media (max-width: 360px){.p-JqbpRw77{padding-top: 30px; padding-right: 0px; padding-bottom: 30px; padding-left: 0px}
+}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
+<div pagelayer-id="cuOazzdE" class="p-cuOazzdE pagelayer-col">
+<style pagelayer-style-id="cuOazzdE">.p-cuOazzdE .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-cuOazzdE > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="4w4kkp9F" class="p-4w4kkp9F pagelayer-inner_row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="4w4kkp9F">.p-4w4kkp9F .pagelayer-col-holder{padding: 10px}
+.p-4w4kkp9F > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-4w4kkp9F .pagelayer-svg-top .pagelayer-shape-fill{fill:#227bc3}
+.p-4w4kkp9F .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-4w4kkp9F .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#e44993}
+.p-4w4kkp9F .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
+<div pagelayer-id="W0UGNsHX" class="p-W0UGNsHX pagelayer-col pagelayer-col-3">
+<style pagelayer-style-id="W0UGNsHX">.p-W0UGNsHX > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="45IgudVO" class="p-45IgudVO pagelayer-iconbox">
+<style pagelayer-style-id="45IgudVO">.p-45IgudVO .pagelayer-service-icon i{padding: calc(0.5em + 8px);color:#121212;-webkit-transition: all 400ms; transition: all 400ms;border-style: solid;border-color: #04dead;border-top-width: 0px; border-right-width: 0px; border-bottom-width: 2px; border-left-width: 0px}
+.p-45IgudVO .pagelayer-service-icon{padding-top:40px; padding-right:0px; padding-bottom:40px; padding-left:0px;font-size:35px}
+.p-45IgudVO .pagelayer-service-icon i {border-radius: 0px 0px 0px 0px; -webkit-border-radius:  0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+.p-45IgudVO .pagelayer-service-heading{text-align:center;padding-top:10px; padding-right:0px; padding-bottom:10px; padding-left:0px;color:#000000;font-family: Work Sans; font-size: 18px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform: Uppercase !important; letter-spacing: px !important; word-spacing: px !important;-webkit-transition: all 400ms; transition: all 400ms}
+.p-45IgudVO .pagelayer-service-details{text-align:center}
+.p-45IgudVO .pagelayer-service-text{padding-top:10px; padding-right:30px; padding-bottom:10px; padding-left:30px}
+.p-45IgudVO .pagelayer-service-btn{padding-top:10px;padding-right:30px;padding-bottom:10px;padding-left:30px;font-family: Work Sans; font-size: 14px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform: Uppercase !important; letter-spacing: px !important; word-spacing: px !important;margin-top:20px; margin-right:0px; margin-bottom:40px; margin-left:0px;font-size:NaNpx;color:#ffffff;background-color:#04dead;-webkit-transition: all 400ms; transition: all 400ms;border-style: solid;border-color: #ffffff;border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;border-radius: 0px 0px 0px 0px; -webkit-border-radius:  0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+.p-45IgudVO{background: #ffffff;border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+</style><div class="pagelayer-service-container pagelayer-service-align-top pagelayer-service-vertical-{{service_vertical_alignment}}">
+			<div class="pagelayer-service-icon pagelayer-service-framed">
+				<i class="fas fa-home pagelayer-icon-circle pagelayer-animation-{{anim_hover}}" aria-hidden="true"></i>
+			</div>
+			<div class="pagelayer-service-details">
+				
+					<div class="pagelayer-service-heading">Housing Security</div>
+				
+				<div class="pagelayer-service-text"><p>We offer comprehensive solutions for peace of mind, including surveillance systems, alarm installations, and security consultations, ensuring your property and loved ones are safe.</p></div>
+				<a href="https://www.ezraondaratv.com/houses/" class="pagelayer-service-btn pagelayer-button pagelayer-ele-link pagelayer-btn-custom pagelayer-btn-custom">
+					<span>check now</span>
+				</a>
+			</div>
+			 
+		</div></div>
+</div></div>
+<div pagelayer-id="xeCfZOqL" class="p-xeCfZOqL pagelayer-col pagelayer-col-3">
+<style pagelayer-style-id="xeCfZOqL">.p-xeCfZOqL > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="LYlVKmGD" class="p-LYlVKmGD pagelayer-iconbox">
+<style pagelayer-style-id="LYlVKmGD">.p-LYlVKmGD .pagelayer-service-icon i{padding: calc(0.5em + 8px);color:#121212;-webkit-transition: all 400ms; transition: all 400ms;border-style: solid;border-color: #04dead;border-top-width: 0px; border-right-width: 0px; border-bottom-width: 2px; border-left-width: 0px}
+.p-LYlVKmGD .pagelayer-service-icon{padding-top:40px; padding-right:0px; padding-bottom:40px; padding-left:0px;font-size:35px}
+.p-LYlVKmGD .pagelayer-service-icon i {border-radius: 0px 0px 0px 0px; -webkit-border-radius:  0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+.p-LYlVKmGD .pagelayer-service-heading{text-align:center;padding-top:10px; padding-right:0px; padding-bottom:10px; padding-left:0px;color:#000000;font-family: Work Sans; font-size: 18px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform: Uppercase !important; letter-spacing: px !important; word-spacing: px !important;-webkit-transition: all 400ms; transition: all 400ms}
+.p-LYlVKmGD .pagelayer-service-details{text-align:center}
+.p-LYlVKmGD .pagelayer-service-text{padding-top:10px; padding-right:30px; padding-bottom:10px; padding-left:30px}
+.p-LYlVKmGD .pagelayer-service-btn{padding-top:10px;padding-right:30px;padding-bottom:10px;padding-left:30px;font-family: Work Sans; font-size: 14px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform: Uppercase !important; letter-spacing: px !important; word-spacing: px !important;margin-top:20px; margin-right:0px; margin-bottom:40px; margin-left:0px;font-size:NaNpx;color:#ffffff;background-color:#04dead;-webkit-transition: all 400ms; transition: all 400ms;border-style: solid;border-color: #ffffff;border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;border-radius: 0px 0px 0px 0px; -webkit-border-radius:  0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+.p-LYlVKmGD{background: #ffffff;border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+</style><div class="pagelayer-service-container pagelayer-service-align-top pagelayer-service-vertical-{{service_vertical_alignment}}">
+			<div class="pagelayer-service-icon pagelayer-service-framed">
+				<i class="fas fa-people-carry pagelayer-icon-circle pagelayer-animation-{{anim_hover}}" aria-hidden="true"></i>
+			</div>
+			<div class="pagelayer-service-details">
+				
+					<div class="pagelayer-service-heading">Good Neighborhood</div>
+				
+				<div class="pagelayer-service-text"><p>Discover the perfect neighbourhood with our expertise. We guide you to areas known for safety, community spirit, and amenities, ensuring your new home is in a welcoming and vibrant environment.</p></div>
+				<a href="https://www.ezraondaratv.com/houses/" class="pagelayer-service-btn pagelayer-button pagelayer-ele-link pagelayer-btn-custom pagelayer-btn-custom">
+					<span>check now</span>
+				</a>
+			</div>
+			 
+		</div></div>
+</div></div>
+<div pagelayer-id="VAwaT7o5" class="p-VAwaT7o5 pagelayer-col pagelayer-col-3">
+<style pagelayer-style-id="VAwaT7o5">.p-VAwaT7o5 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="dkCOAMor" class="p-dkCOAMor pagelayer-iconbox">
+<style pagelayer-style-id="dkCOAMor">.p-dkCOAMor .pagelayer-service-icon i{padding: calc(0.5em + 8px);color:#121212;-webkit-transition: all 400ms; transition: all 400ms;border-style: solid;border-color: #04dead;border-top-width: 0px; border-right-width: 0px; border-bottom-width: 2px; border-left-width: 0px}
+.p-dkCOAMor .pagelayer-service-icon{padding-top:40px; padding-right:0px; padding-bottom:40px; padding-left:0px;font-size:35px}
+.p-dkCOAMor .pagelayer-service-icon i {border-radius: 0px 0px 0px 0px; -webkit-border-radius:  0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+.p-dkCOAMor .pagelayer-service-heading{text-align:center;padding-top:10px; padding-right:0px; padding-bottom:10px; padding-left:0px;color:#000000;font-family: Work Sans; font-size: 18px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform: Uppercase !important; letter-spacing: px !important; word-spacing: px !important;-webkit-transition: all 400ms; transition: all 400ms}
+.p-dkCOAMor .pagelayer-service-details{text-align:center}
+.p-dkCOAMor .pagelayer-service-text{padding-top:10px; padding-right:30px; padding-bottom:10px; padding-left:30px}
+.p-dkCOAMor .pagelayer-service-btn{padding-top:10px;padding-right:30px;padding-bottom:10px;padding-left:30px;font-family: Work Sans; font-size: 14px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform: Uppercase !important; letter-spacing: px !important; word-spacing: px !important;margin-top:20px; margin-right:0px; margin-bottom:40px; margin-left:0px;font-size:NaNpx;color:#ffffff;background-color:#04dead;-webkit-transition: all 400ms; transition: all 400ms;border-style: solid;border-color: #ffffff;border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;border-radius: 0px 0px 0px 0px; -webkit-border-radius:  0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+.p-dkCOAMor{background: #ffffff;border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+</style><div class="pagelayer-service-container pagelayer-service-align-top pagelayer-service-vertical-{{service_vertical_alignment}}">
+			<div class="pagelayer-service-icon pagelayer-service-framed">
+				<i class="fas fa-hand-holding-usd pagelayer-icon-circle pagelayer-animation-{{anim_hover}}" aria-hidden="true"></i>
+			</div>
+			<div class="pagelayer-service-details">
+				
+					<div class="pagelayer-service-heading">strategic locations</div>
+				
+				<div class="pagelayer-service-text"><p>Find homes in strategic locations for your convenience. Whether it's proximity to schools, hospitals, or business districts, we help you locate properties that fit your lifestyle and needs perfectly.
+
+
+
+
+
+
+</p></div>
+				<a href="https://www.ezraondaratv.com/houses/" class="pagelayer-service-btn pagelayer-button pagelayer-ele-link pagelayer-btn-custom pagelayer-btn-custom">
+					<span>check now</span>
+				</a>
+			</div>
+			 
+		</div></div>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+<div pagelayer-id="LkkPkmqxO8MRxLK6" class="p-LkkPkmqxO8MRxLK6 pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="LkkPkmqxO8MRxLK6">.p-LkkPkmqxO8MRxLK6 .pagelayer-col-holder{padding: 10px}
+.p-LkkPkmqxO8MRxLK6 > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-LkkPkmqxO8MRxLK6 .pagelayer-svg-top .pagelayer-shape-fill{fill:#fff}
+.p-LkkPkmqxO8MRxLK6 .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-LkkPkmqxO8MRxLK6 .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#fff}
+.p-LkkPkmqxO8MRxLK6 .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+.p-LkkPkmqxO8MRxLK6{margin-top: 75px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
+<div pagelayer-id="0l51qndCSj6ZXJZk" class="p-0l51qndCSj6ZXJZk pagelayer-col">
+<style pagelayer-style-id="0l51qndCSj6ZXJZk">.p-0l51qndCSj6ZXJZk .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-0l51qndCSj6ZXJZk > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="2PaqN6zq1l857qYr" class="p-2PaqN6zq1l857qYr pagelayer-heading fadeInDown pagelayer-wow">
+<style pagelayer-style-id="2PaqN6zq1l857qYr">.p-2PaqN6zq1l857qYr .pagelayer-heading-holder *{color:#262cf0;font-family: Montserrat !important; font-size: 15px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-2PaqN6zq1l857qYr .pagelayer-heading-holder{color:#262cf0;font-family: Montserrat !important; font-size: 15px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-2PaqN6zq1l857qYr{margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 2px;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+</style><div class="pagelayer-heading-holder">FROM OUR YOUTUBE CHANNEL</div>
+		
+			</div>
+<div pagelayer-id="pMPOk4Hb5ZB0X7h3" class="p-pMPOk4Hb5ZB0X7h3 pagelayer-heading fadeInDown pagelayer-wow" align="center">
+<style pagelayer-style-id="pMPOk4Hb5ZB0X7h3">.p-pMPOk4Hb5ZB0X7h3{text-align: center;margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+.p-pMPOk4Hb5ZB0X7h3 .pagelayer-heading-holder *{color:#fdbf8e;font-family: Poppins !important; font-size: 40px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-pMPOk4Hb5ZB0X7h3 .pagelayer-heading-holder{color:#fdbf8e;font-family: Poppins !important; font-size: 40px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+@media (max-width: 360px){.p-pMPOk4Hb5ZB0X7h3 .pagelayer-heading-holder *{font-family:  !important; font-size: 30px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-pMPOk4Hb5ZB0X7h3 .pagelayer-heading-holder{font-family:  !important; font-size: 30px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+}
+</style><div class="pagelayer-heading-holder">LATEST PROJECTS</div>
+		
+			</div>
+<div pagelayer-id="egy8087" class="p-egy8087 pagelayer-video">
+<div class="pagelayer-video-holder pagelayer-video-aspect-8-5">
+			<iframe id="embed_video" class="pagelayer-video-iframe" width="100%" height="auto" src="//www.youtube.com/embed/QzPwG45jYmQ?&autoplay=0&mute=0&loop=0&playlist=QzPwG45jYmQ" frameborder="0"></iframe>
+			
+				
+			
+		</div></div>
+<div pagelayer-id="PhTYie2ZpQBYzBUb" class="p-PhTYie2ZpQBYzBUb pagelayer-inner_row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="PhTYie2ZpQBYzBUb">.p-PhTYie2ZpQBYzBUb .pagelayer-col-holder{padding: 10px}
+.p-PhTYie2ZpQBYzBUb > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-PhTYie2ZpQBYzBUb .pagelayer-svg-top .pagelayer-shape-fill{fill:#fff}
+.p-PhTYie2ZpQBYzBUb .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-PhTYie2ZpQBYzBUb .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#fff}
+.p-PhTYie2ZpQBYzBUb .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+.p-PhTYie2ZpQBYzBUb{margin-top: 20px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
+<div pagelayer-id="xWq0Ufz6S3D5LZGb" class="p-xWq0Ufz6S3D5LZGb pagelayer-col pagelayer-col-4">
+<style pagelayer-style-id="xWq0Ufz6S3D5LZGb">.p-xWq0Ufz6S3D5LZGb .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-xWq0Ufz6S3D5LZGb > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="u8p8617" class="p-u8p8617 pagelayer-video">
+<div class="pagelayer-video-holder pagelayer-video-aspect-8-5">
+			<iframe id="embed_video" class="pagelayer-video-iframe" width="100%" height="auto" src="//www.youtube.com/embed/XQhgC9l1GO4?&autoplay=0&mute=0&loop=0&playlist=XQhgC9l1GO4" frameborder="0"></iframe>
+			
+				
+			
+		</div></div>
+</div></div>
+<div pagelayer-id="zscsglrz7o6CqLOg" class="p-zscsglrz7o6CqLOg pagelayer-col pagelayer-col-4">
+<style pagelayer-style-id="zscsglrz7o6CqLOg">.p-zscsglrz7o6CqLOg .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-zscsglrz7o6CqLOg > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="eom6048" class="p-eom6048 pagelayer-video">
+<div class="pagelayer-video-holder pagelayer-video-aspect-8-5">
+			<iframe id="embed_video" class="pagelayer-video-iframe" width="100%" height="auto" src="//www.youtube.com/embed/0xifOeS1TB4?&autoplay=0&mute=0&loop=0&playlist=0xifOeS1TB4" frameborder="0"></iframe>
+			
+				
+			
+		</div></div>
+</div></div>
+<div pagelayer-id="cXPJRHnjfArJcOLs" class="p-cXPJRHnjfArJcOLs pagelayer-col pagelayer-col-4">
+<style pagelayer-style-id="cXPJRHnjfArJcOLs">.p-cXPJRHnjfArJcOLs .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-cXPJRHnjfArJcOLs > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="btl8955" class="p-btl8955 pagelayer-video">
+<div class="pagelayer-video-holder pagelayer-video-aspect-8-5">
+			<iframe id="embed_video" class="pagelayer-video-iframe" width="100%" height="auto" src="//www.youtube.com/embed/U4rH2WSWk3k?&autoplay=0&mute=0&loop=0&playlist=U4rH2WSWk3k" frameborder="0"></iframe>
+			
+				
+			
+		</div></div>
+</div></div>
+</div></div>
+<div pagelayer-id="jDuUaOfFDX5GU3qi" class="p-jDuUaOfFDX5GU3qi pagelayer-inner_row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="jDuUaOfFDX5GU3qi">.p-jDuUaOfFDX5GU3qi .pagelayer-col-holder{padding: 10px}
+.p-jDuUaOfFDX5GU3qi > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-jDuUaOfFDX5GU3qi .pagelayer-svg-top .pagelayer-shape-fill{fill:#fff}
+.p-jDuUaOfFDX5GU3qi .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-jDuUaOfFDX5GU3qi .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#fff}
+.p-jDuUaOfFDX5GU3qi .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
+<div pagelayer-id="VdwWi9rBQ9CIBbXi" class="p-VdwWi9rBQ9CIBbXi pagelayer-col pagelayer-col-4">
+<style pagelayer-style-id="VdwWi9rBQ9CIBbXi">.p-VdwWi9rBQ9CIBbXi .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-VdwWi9rBQ9CIBbXi > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="utd5290" class="p-utd5290 pagelayer-video">
+<div class="pagelayer-video-holder pagelayer-video-aspect-8-5">
+			<iframe id="embed_video" class="pagelayer-video-iframe" width="100%" height="auto" src="//www.youtube.com/embed/mBKJBCE235c?&autoplay=0&mute=0&loop=0&playlist=mBKJBCE235c" frameborder="0"></iframe>
+			
+				
+			
+		</div></div>
+</div></div>
+<div pagelayer-id="0fqGDUKVKs44CdHG" class="p-0fqGDUKVKs44CdHG pagelayer-col pagelayer-col-4">
+<style pagelayer-style-id="0fqGDUKVKs44CdHG">.p-0fqGDUKVKs44CdHG .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-0fqGDUKVKs44CdHG > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="fn34661" class="p-fn34661 pagelayer-video">
+<div class="pagelayer-video-holder pagelayer-video-aspect-8-5">
+			<iframe id="embed_video" class="pagelayer-video-iframe" width="100%" height="auto" src="//www.youtube.com/embed/xlKhalIljFs?&autoplay=0&mute=0&loop=0&playlist=xlKhalIljFs" frameborder="0"></iframe>
+			
+				
+			
+		</div></div>
+</div></div>
+<div pagelayer-id="RCoe6au5RpC3t5XC" class="p-RCoe6au5RpC3t5XC pagelayer-col pagelayer-col-4">
+<style pagelayer-style-id="RCoe6au5RpC3t5XC">.p-RCoe6au5RpC3t5XC .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-RCoe6au5RpC3t5XC > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="93s2513" class="p-93s2513 pagelayer-video">
+<div class="pagelayer-video-holder pagelayer-video-aspect-8-5">
+			<iframe id="embed_video" class="pagelayer-video-iframe" width="100%" height="auto" src="//www.youtube.com/embed/koIhLE9HsK8?&autoplay=0&mute=0&loop=0&playlist=koIhLE9HsK8" frameborder="0"></iframe>
+			
+				
+			
+		</div></div>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+<div pagelayer-id="FOnPf2MBRih6oX7q" class="p-FOnPf2MBRih6oX7q pagelayer-row pagelayer-row-stretch-fixed pagelayer-height-default">
+<style pagelayer-style-id="FOnPf2MBRih6oX7q">.p-FOnPf2MBRih6oX7q{max-width: 1929px; margin-left: auto !important; margin-right: auto !important;margin-top: 75px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px}
+.p-FOnPf2MBRih6oX7q .pagelayer-col-holder{padding: 10px}
+.p-FOnPf2MBRih6oX7q > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-FOnPf2MBRih6oX7q .pagelayer-svg-top .pagelayer-shape-fill{fill:#fff}
+.p-FOnPf2MBRih6oX7q .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-FOnPf2MBRih6oX7q .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#fff}
+.p-FOnPf2MBRih6oX7q .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
+<div pagelayer-id="dJeHhgJsFEqd2Vih" class="p-dJeHhgJsFEqd2Vih pagelayer-col pagelayer-col-4">
+<style pagelayer-style-id="dJeHhgJsFEqd2Vih">.p-dJeHhgJsFEqd2Vih .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-dJeHhgJsFEqd2Vih > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="pSfQ2Zg2lenv814t" class="p-pSfQ2Zg2lenv814t pagelayer-image">
+<style pagelayer-style-id="pSfQ2Zg2lenv814t">.p-pSfQ2Zg2lenv814t .pagelayer-image-holder{text-align: center}
+.p-pSfQ2Zg2lenv814t .pagelayer-image-holder .pagelayer-image-overlay-content{text-align: center}
+.p-pSfQ2Zg2lenv814t .pagelayer-img{-webkit-transition: all 400ms; transition: all 400ms}
+.p-pSfQ2Zg2lenv814t .pagelayer-image-caption{color: #3E8EF7}
+</style><div class="pagelayer-image-holder pagelayer-anim-par">
+			
+				<img class="pagelayer-img pagelayer-animation-{{anim_hover}}" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0038.jpg" title="IMG-20240718-WA0038" alt="IMG-20240718-WA0038" srcset="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0038.jpg, https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0038.jpg 1x, " />
+				
+			
+		</div>
+		</div>
+<div pagelayer-id="xro7138" class="p-xro7138 pagelayer-image">
+<style pagelayer-style-id="xro7138">.p-xro7138 .pagelayer-image-holder{text-align: center}
+.p-xro7138 .pagelayer-image-holder .pagelayer-image-overlay-content{text-align: center}
+.p-xro7138 .pagelayer-img{-webkit-transition: all 400ms; transition: all 400ms}
+.p-xro7138 .pagelayer-image-caption{color: #3E8EF7}
+</style><div class="pagelayer-image-holder pagelayer-anim-par">
+			
+				<img class="pagelayer-img pagelayer-animation-{{anim_hover}}" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0027.jpg" title="IMG-20240718-WA0027" alt="IMG-20240718-WA0027" srcset="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0027.jpg, https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0027.jpg 1x, " />
+				
+			
+		</div>
+		</div>
+<div pagelayer-id="EC9zdk1CICmRXdzd" class="p-EC9zdk1CICmRXdzd pagelayer-btn">
+<style pagelayer-style-id="EC9zdk1CICmRXdzd">.p-EC9zdk1CICmRXdzd .pagelayer-btn-text{font-family: Poppins; font-size: 14px !important; font-style:  !important; font-weight: 400 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-EC9zdk1CICmRXdzd .pagelayer-btn-holder{font-family: Poppins; font-size: 14px !important; font-style:  !important; font-weight: 400 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important;background-color: #ffffff;color: #fdbf8e;-webkit-transition: all 400ms !important; transition: all 400ms !important;border-color: #42414f}
+.p-EC9zdk1CICmRXdzd{text-align: left}
+.p-EC9zdk1CICmRXdzd .pagelayer-btn-anim-thin{background-color: unset !important;border-style: unset !important}
+.p-EC9zdk1CICmRXdzd .pagelayer-btn-anim-thin::before{background-color: #ffffff}
+.p-EC9zdk1CICmRXdzd .pagelayer-btn-anim-thin::after{background-color: #ffffff}
+.p-EC9zdk1CICmRXdzd .pagelayer-btn-custom:hover, .p-EC9zdk1CICmRXdzd .pagelayer-btn-anim-slide:after{background-color:  }
+.p-EC9zdk1CICmRXdzd .pagelayer-btn-holder:hover{color:  ;border-color: #fdbf8e}
+.p-EC9zdk1CICmRXdzd .pagelayer-btn-icon{padding: 0 2px}
+.p-EC9zdk1CICmRXdzd .pagelayer-btn-holder, .p-EC9zdk1CICmRXdzd .pagelayer-btn-anim-thin:after, .p-EC9zdk1CICmRXdzd .pagelayer-btn-anim-thin:before{border-style: solid;border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px}
+.p-EC9zdk1CICmRXdzd .pagelayer-btn-holder, .p-EC9zdk1CICmRXdzd .pagelayer-btn-anim-glow:before{border-radius: 0px 0px 0px 0px; -webkit-border-radius:  0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px 0px}
+.p-EC9zdk1CICmRXdzd .pagelayer-btn-holder:hover, .p-EC9zdk1CICmRXdzd .pagelayer-btn-anim-thin:hover:after, .p-EC9zdk1CICmRXdzd .pagelayer-btn-anim-thin:hover:before{border-style: solid;border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px}
+.p-EC9zdk1CICmRXdzd .pagelayer-btn-anim-thin:hover{border-style: unset !important}
+.p-EC9zdk1CICmRXdzd:hover{box-shadow: 0px 0px 0px 0px #fdbf8e  !important}
+</style><a class="pagelayer-btn-holder pagelayer-ele-link pagelayer-btn-custom pagelayer-btn-custom pagelayer-btn-icon-right" href="#">
+					<i class="fas fa-arrow-right pagelayer-btn-icon"></i>
+					<span class="pagelayer-btn-text">Read More</span>
+					<i class="fas fa-arrow-right pagelayer-btn-icon"></i>
+				</a></div>
+</div></div>
+<div pagelayer-id="VsC1mnILWDuDWuNr" class="p-VsC1mnILWDuDWuNr pagelayer-col pagelayer-col-8">
+<style pagelayer-style-id="VsC1mnILWDuDWuNr">.p-VsC1mnILWDuDWuNr{align-content: center !important}
+.p-VsC1mnILWDuDWuNr .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-VsC1mnILWDuDWuNr > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="NYWCBBrX8TM895z0" class="p-NYWCBBrX8TM895z0 pagelayer-heading fadeInDown pagelayer-wow">
+<style pagelayer-style-id="NYWCBBrX8TM895z0">.p-NYWCBBrX8TM895z0 .pagelayer-heading-holder *{color:#fdbf8e;font-family: Poppins !important; font-size: 40px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-NYWCBBrX8TM895z0 .pagelayer-heading-holder{color:#fdbf8e;font-family: Poppins !important; font-size: 40px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-NYWCBBrX8TM895z0{margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+@media (max-width: 360px){.p-NYWCBBrX8TM895z0 .pagelayer-heading-holder *{font-family:  !important; font-size: 30px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-NYWCBBrX8TM895z0 .pagelayer-heading-holder{font-family:  !important; font-size: 30px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+}
+</style><div class="pagelayer-heading-holder"><h2>ARCHITECTS &amp; CONCEPT BUILDERS</h2></div>
+		
+			</div>
+<div pagelayer-id="NWtPhjyDytLXUNPD" class="p-NWtPhjyDytLXUNPD pagelayer-heading fadeInDown pagelayer-wow">
+<style pagelayer-style-id="NWtPhjyDytLXUNPD">.p-NWtPhjyDytLXUNPD .pagelayer-heading-holder *{color:#212121;font-family: Montserrat !important; font-size: 15px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-NWtPhjyDytLXUNPD .pagelayer-heading-holder{color:#212121;font-family: Montserrat !important; font-size: 15px !important; font-style:  !important; font-weight: 500 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-NWtPhjyDytLXUNPD{margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 2px;-webkit-animation-delay: 600ms; animation-delay: 600ms}
+</style><div class="pagelayer-heading-holder">We specialize in innovative architectural design and high-quality construction, delivering tailored solutions that blend functionality, aesthetics, and sustainability. We transform client visions into exceptional residential and commercial spaces..</div>
+		
+			</div>
+<div pagelayer-id="efm3413" class="p-efm3413 pagelayer-image">
+<style pagelayer-style-id="efm3413">.p-efm3413 .pagelayer-image-holder{text-align: center}
+.p-efm3413 .pagelayer-image-holder .pagelayer-image-overlay-content{text-align: center}
+.p-efm3413 .pagelayer-img{-webkit-transition: all 400ms; transition: all 400ms}
+.p-efm3413 .pagelayer-image-caption{color: #0986c0}
+</style><div class="pagelayer-image-holder pagelayer-anim-par">
+			
+				<img class="pagelayer-img pagelayer-animation-{{anim_hover}}" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0034.jpg" title="IMG-20240718-WA0034" alt="IMG-20240718-WA0034" srcset="https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0034.jpg, https://www.ezraondaratv.com/sitepad-data/uploads/2024/07/IMG-20240718-WA0034.jpg 1x, " />
+				
+			
+		</div>
+		</div>
+</div></div>
+</div></div>
+	</div><!-- .entry-content -->
+
+</article><!-- #post-## -->
+
+		</main><!-- .site-main -->
+	</div><!-- .content-area -->
+
+
+	<footer class="pagelayer-footer"><div pagelayer-id="dl09869" class="p-dl09869 pagelayer-post_props">
+</div>
+<div pagelayer-id="AbOjLQ8Fh5ZPRR2N" class="p-AbOjLQ8Fh5ZPRR2N pagelayer-row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="AbOjLQ8Fh5ZPRR2N">.p-AbOjLQ8Fh5ZPRR2N .pagelayer-col-holder{padding: 10px}
+.p-AbOjLQ8Fh5ZPRR2N > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-AbOjLQ8Fh5ZPRR2N .pagelayer-svg-top .pagelayer-shape-fill{fill:#fff}
+.p-AbOjLQ8Fh5ZPRR2N .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-AbOjLQ8Fh5ZPRR2N .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#fff}
+.p-AbOjLQ8Fh5ZPRR2N .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+.p-AbOjLQ8Fh5ZPRR2N{background: #151515;padding-top: 40px; padding-right: 0px; padding-bottom: 40px; padding-left: 0px}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
+<div pagelayer-id="zAmHI3AQkabWLPKc" class="p-zAmHI3AQkabWLPKc pagelayer-col">
+<style pagelayer-style-id="zAmHI3AQkabWLPKc">.p-zAmHI3AQkabWLPKc .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-zAmHI3AQkabWLPKc > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="Hg1BUDCg5Ogp1t1H" class="p-Hg1BUDCg5Ogp1t1H pagelayer-inner_row pagelayer-row-stretch-auto pagelayer-height-default">
+<style pagelayer-style-id="Hg1BUDCg5Ogp1t1H">.p-Hg1BUDCg5Ogp1t1H .pagelayer-col-holder{padding: 10px}
+.p-Hg1BUDCg5Ogp1t1H > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+.p-Hg1BUDCg5Ogp1t1H .pagelayer-svg-top .pagelayer-shape-fill{fill:#fff}
+.p-Hg1BUDCg5Ogp1t1H .pagelayer-row-svg .pagelayer-svg-top{width:100%;height:100px}
+.p-Hg1BUDCg5Ogp1t1H .pagelayer-svg-bottom .pagelayer-shape-fill{fill:#fff}
+.p-Hg1BUDCg5Ogp1t1H .pagelayer-row-svg .pagelayer-svg-bottom{width:100%;height:100px}
+</style>
+			
+			
+			
+			
+			<div class="pagelayer-row-holder pagelayer-row pagelayer-auto pagelayer-width-auto">
+<div pagelayer-id="01hF17lJWdSiQWdb" class="p-01hF17lJWdSiQWdb pagelayer-col pagelayer-col-6">
+<style pagelayer-style-id="01hF17lJWdSiQWdb">.p-01hF17lJWdSiQWdb .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-01hF17lJWdSiQWdb > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="ZQbgJn4EaY6wtV0S" class="p-ZQbgJn4EaY6wtV0S pagelayer-wp_title">
+<style pagelayer-style-id="ZQbgJn4EaY6wtV0S">.p-ZQbgJn4EaY6wtV0S .pagelayer-wp-title-heading{font-family: Open Sans; font-size: 30px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform: Capitalize !important; letter-spacing: px !important; word-spacing: px !important;color:#ffd701;text-align:left;padding: 0px 0px 0px 10px}
+.p-ZQbgJn4EaY6wtV0S .pagelayer-wp-title-img{width:8%; height: auto}
+.p-ZQbgJn4EaY6wtV0S{padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}
+@media (max-width: 360px){.p-ZQbgJn4EaY6wtV0S .pagelayer-wp-title-img{width:15%; height: auto}
+}
+</style><div class="pagelayer-wp-title-content">
+			<div class="pagelayer-wp-title-section">
+				<a href="https://www.ezraondaratv.com" class="pagelayer-wp-title-link pagelayer-ele-link pagelayer-wp-title-align-left pagelayer-wp-title-vertical-middle">
+					<img class="pagelayer-img pagelayer-wp-title-img" src="https://www.ezraondaratv.com/sitepad-data/uploads/2024/04/logo.png" title="logo" alt="logo" />
+					<div class="pagelayer-wp-title-holder">
+						<div class="pagelayer-wp-title-heading">Ezraondaratv</div>
+						
+					</div>
+				</a>
+			</div>			
+		<div></div></div></div>
+<div pagelayer-id="dftlVu7m4tQsyQcr" class="p-dftlVu7m4tQsyQcr pagelayer-text">
+<style pagelayer-style-id="dftlVu7m4tQsyQcr">.p-dftlVu7m4tQsyQcr {font-family: poppins;}
+</style><div class="pagelayer-text-holder"><p><span style="color: rgb(255, 255, 255);"><span style="font-size: 14px;">We specialize in real estate videography and photography, business promotion, social media management, events coverage, and indoor/outdoor photography services. Let us bring your vision to life. </span></span></p></div></div>
+<div pagelayer-id="Ej1SiY2msr2vjz3d" class="p-Ej1SiY2msr2vjz3d pagelayer-social_grp pagelayer-social-shape-circle">
+<style pagelayer-style-id="Ej1SiY2msr2vjz3d">.p-Ej1SiY2msr2vjz3d i{height:1em; width:1em; position: absolute; top: 50%; left: 50%; transform: translate(-50% , -50%)}
+.p-Ej1SiY2msr2vjz3d .pagelayer-icon-holder{position: relative; min-height: 1em; min-width: 1em;padding: calc(0.5em + 10px);font-size: 16px;background-color: #ffffff !important;-webkit-transition: all 400ms; transition: all 400ms}
+.p-Ej1SiY2msr2vjz3d{text-align: left;margin-top: 10px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px}
+.p-Ej1SiY2msr2vjz3d > div{display: inline-block}
+.p-Ej1SiY2msr2vjz3d .pagelayer-social{padding: 3px}
+.p-Ej1SiY2msr2vjz3d .pagelayer-social-fa{font-size: 16px;color: #000000 !important;-webkit-transition: all 400ms; transition: all 400ms}
+.p-Ej1SiY2msr2vjz3d .pagelayer-icon-holder:hover .pagelayer-social-fa{color: #000000 !important}
+.p-Ej1SiY2msr2vjz3d .pagelayer-icon-holder:hover{background-color: #ffd701 !important}
+</style>
+<div pagelayer-id="FbO2lF54eXWAhOzr" class="p-FbO2lF54eXWAhOzr pagelayer-social">
+<div class="pagelayer-icon-holder pagelayer-facebook-f" data-icon="fab fa-facebook-f">
+					<a class="pagelayer-ele-link" href="https://www.facebook.com/ondaraezra?mibextid=ZbWKwL">
+						<i class="pagelayer-social-fa fab fa-facebook-f"></i>
+					</a>
+				</div></div>
+<div pagelayer-id="VRsquZHbZ1zmNMSD" class="p-VRsquZHbZ1zmNMSD pagelayer-social">
+<div class="pagelayer-icon-holder pagelayer-linkedin-in" data-icon="fab fa-linkedin-in">
+					<a class="pagelayer-ele-link" href="https://www.linkedin.com/in/ezra-ondara/">
+						<i class="pagelayer-social-fa fab fa-linkedin-in"></i>
+					</a>
+				</div></div>
+<div pagelayer-id="rhb782" class="p-rhb782 pagelayer-social">
+<div class="pagelayer-icon-holder pagelayer-youtube" data-icon="fab fa-youtube">
+					<a class="pagelayer-ele-link" href="https://www.youtube.com/@ezraondaratv">
+						<i class="pagelayer-social-fa fab fa-youtube"></i>
+					</a>
+				</div></div>
+<div pagelayer-id="a7g361" class="p-a7g361 pagelayer-social">
+<div class="pagelayer-icon-holder pagelayer-tiktok" data-icon="fab fa-tiktok">
+					<a class="pagelayer-ele-link" href="https://www.tiktok.com/@ezra.ondara.tv?_t=8mkkmLPbE8M&_r=1">
+						<i class="pagelayer-social-fa fab fa-tiktok"></i>
+					</a>
+				</div></div>
+</div>
+</div></div>
+<div pagelayer-id="YMRkYjbeApZKwy5C" class="p-YMRkYjbeApZKwy5C pagelayer-col pagelayer-col-3">
+<style pagelayer-style-id="YMRkYjbeApZKwy5C">.p-YMRkYjbeApZKwy5C .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-YMRkYjbeApZKwy5C > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="1TExyL4pOSuGz6sz" class="p-1TExyL4pOSuGz6sz pagelayer-heading">
+<style pagelayer-style-id="1TExyL4pOSuGz6sz">.p-1TExyL4pOSuGz6sz .pagelayer-heading-holder *{color:#ffd701;font-family: Open Sans !important; font-size: 22px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-1TExyL4pOSuGz6sz .pagelayer-heading-holder{color:#ffd701;font-family: Open Sans !important; font-size: 22px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+@media (max-width: 780px) and (min-width: 361px){.p-1TExyL4pOSuGz6sz{margin-top: 20px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px}
+}
+@media (max-width: 360px){.p-1TExyL4pOSuGz6sz{margin-top: 20px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px}
+}
+</style><div class="pagelayer-heading-holder">
+
+
+Get In Touch</div>
+		
+			</div>
+<div pagelayer-id="snCALdKWY5dEIplz" class="p-snCALdKWY5dEIplz pagelayer-divider">
+<style pagelayer-style-id="snCALdKWY5dEIplz">.p-snCALdKWY5dEIplz .pagelayer-divider-seperator{border-top-style: solid;border-top-color: #ffffff;border-top-width: 2px;width: 30%}
+.p-snCALdKWY5dEIplz .pagelayer-divider-holder{padding-top: 1px; padding-bottom: 1px;text-align: left}
+@media (max-width: 780px) and (min-width: 361px){.p-snCALdKWY5dEIplz .pagelayer-divider-seperator{width: 12%}
+}
+</style><div class="pagelayer-divider-holder">
+			<span class="pagelayer-divider-seperator"></span>
+		</div></div>
+<div pagelayer-id="xzIwMb4A14fFjA2z" class="p-xzIwMb4A14fFjA2z pagelayer-phone">
+<style pagelayer-style-id="xzIwMb4A14fFjA2z">.p-xzIwMb4A14fFjA2z .pagelayer-phone *, .p-xzIwMb4A14fFjA2z .pagelayer-phone{color:#ffffff;font-family: Poppins; font-size: 16px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+body:not(.rtl) .p-xzIwMb4A14fFjA2z .pagelayer-phone-icon{margin-right: 10px}
+body.rtl .p-xzIwMb4A14fFjA2z .pagelayer-phone-icon{margin-left:10px}
+.p-xzIwMb4A14fFjA2z .pagelayer-phone-icon i{color:#ffd701;font-size: 24px}
+.p-xzIwMb4A14fFjA2z{margin-top: 10px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px}
+</style><div class="pagelayer-phone-holder">
+			<span class="pagelayer-phone-icon"><i class="fas fa-phone-alt"></i></span>
+			
+				<span class="pagelayer-phone">+254791055678</span>
+			
+			</div></div>
+<div pagelayer-id="YzWF4Fz5jg8MSkqk" class="p-YzWF4Fz5jg8MSkqk pagelayer-email">
+<style pagelayer-style-id="YzWF4Fz5jg8MSkqk">.p-YzWF4Fz5jg8MSkqk .pagelayer-email *, .p-YzWF4Fz5jg8MSkqk .pagelayer-email{color:#ffffff;font-family: Poppins; font-size: 16px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+body:not(.rtl) .p-YzWF4Fz5jg8MSkqk .pagelayer-email-icon{margin-right: 10px}
+body.rtl .p-YzWF4Fz5jg8MSkqk .pagelayer-email-icon{margin-left:10px}
+.p-YzWF4Fz5jg8MSkqk .pagelayer-email-icon i{color:#ffd701;font-size: 26px}
+.p-YzWF4Fz5jg8MSkqk{margin-top: 10px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px}
+</style><div class="pagelayer-email-holder">
+			<span class="pagelayer-email-icon"><i class="fas fa-envelope"></i></span>
+			<span class="pagelayer-email">ezra.ondara@gmail.com</span>
+				</div>
+			
+			</div>
+<div pagelayer-id="TJ82HYEAPlxXLxBu" class="p-TJ82HYEAPlxXLxBu pagelayer-address">
+<style pagelayer-style-id="TJ82HYEAPlxXLxBu">.p-TJ82HYEAPlxXLxBu .pagelayer-address *, .p-TJ82HYEAPlxXLxBu .pagelayer-address{color:#ffffff;font-family: Poppins; font-size: 16px !important; font-style:  !important; font-weight:  !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+body:not(.rtl) .p-TJ82HYEAPlxXLxBu .pagelayer-address-icon{margin-right: 10px}
+body.rtl .p-TJ82HYEAPlxXLxBu .pagelayer-address-icon{margin-left:10px}
+.p-TJ82HYEAPlxXLxBu .pagelayer-address-icon i{color:#ffd701;font-size: 34px}
+.p-TJ82HYEAPlxXLxBu{margin-top: 10px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px}
+</style><div class="pagelayer-address-holder">
+			<span class="pagelayer-address-icon"><i class="fas fa-building"></i></span>
+			<span class="pagelayer-address">Atto Digi mall Kiamunyi Nakuru</span>
+		</div></div>
+</div></div>
+<div pagelayer-id="M4oWfQEDD7VUJRHt" class="p-M4oWfQEDD7VUJRHt pagelayer-col pagelayer-col-3">
+<style pagelayer-style-id="M4oWfQEDD7VUJRHt">.p-M4oWfQEDD7VUJRHt .pagelayer-col-holder > div:not(:last-child){margin-bottom: 15px}
+.p-M4oWfQEDD7VUJRHt > .pagelayer-background-overlay{-webkit-transition: all 400ms !important; transition: all 400ms !important}
+</style>
+				
+				
+				
+				<div class="pagelayer-col-holder">
+<div pagelayer-id="LTueTvhz18CPXsCB" class="p-LTueTvhz18CPXsCB pagelayer-heading">
+<style pagelayer-style-id="LTueTvhz18CPXsCB">.p-LTueTvhz18CPXsCB .pagelayer-heading-holder *{color:#ffd701;font-family: Open Sans !important; font-size: 22px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-LTueTvhz18CPXsCB .pagelayer-heading-holder{color:#ffd701;font-family: Open Sans !important; font-size: 22px !important; font-style:  !important; font-weight: 600 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+@media (max-width: 780px) and (min-width: 361px){.p-LTueTvhz18CPXsCB{margin-top: 20px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px}
+}
+@media (max-width: 360px){.p-LTueTvhz18CPXsCB{margin-top: 20px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px}
+}
+</style><div class="pagelayer-heading-holder">
+
+Find Us</div>
+		
+			</div>
+<div pagelayer-id="Nbgh3YomsU5nPGas" class="p-Nbgh3YomsU5nPGas pagelayer-divider">
+<style pagelayer-style-id="Nbgh3YomsU5nPGas">.p-Nbgh3YomsU5nPGas .pagelayer-divider-seperator{border-top-style: solid;border-top-color: #ffffff;border-top-width: 2px;width: 30%}
+.p-Nbgh3YomsU5nPGas .pagelayer-divider-holder{padding-top: 1px; padding-bottom: 1px;text-align: left}
+@media (max-width: 780px) and (min-width: 361px){.p-Nbgh3YomsU5nPGas .pagelayer-divider-seperator{width: 12%}
+}
+</style><div class="pagelayer-divider-holder">
+			<span class="pagelayer-divider-seperator"></span>
+		</div></div>
+<div pagelayer-id="8cV1pFEdLj8Rk3du" class="p-8cV1pFEdLj8Rk3du pagelayer-google_maps">
+<style pagelayer-style-id="8cV1pFEdLj8Rk3du">.p-8cV1pFEdLj8Rk3du iframe{height: 188px}
+</style><div class="pagelayer-google-maps-holder">
+			<iframe marginheight="0" scrolling="no" marginwidth="0" frameborder="0" src="https://maps.google.com/maps?q=Atto digi kiamunyi, Nakuru&t=m&z=10&output=embed&iwloc=near" aria-label="Atto digi kiamunyi, Nakuru"></iframe>
+			
+		</div></div>
+</div></div>
+</div></div>
+<div pagelayer-id="KCvpiYztjMgUoObP" class="p-KCvpiYztjMgUoObP pagelayer-copyright">
+<style pagelayer-style-id="KCvpiYztjMgUoObP">.p-KCvpiYztjMgUoObP .pagelayer-copyright *, .p-KCvpiYztjMgUoObP .pagelayer-copyright{color:#ffffff;font-family: Poppins; font-size: 18px !important; font-style:  !important; font-weight: 400 !important; font-variant:  !important; text-decoration-line:  !important; text-decoration-style: Solid !important; line-height: em !important; text-transform:  !important; letter-spacing: px !important; word-spacing: px !important}
+.p-KCvpiYztjMgUoObP .pagelayer-copyright{text-align: left}
+</style><div class="pagelayer-copyright">
+			<a href="https://www.ezraondaratv.com">
+				©fredbiyogo12
+			</a>
+		</div></div>
+</div></div>
+</div></div>
+
+	</footer><link rel="preload" href="https://fonts.googleapis.com/css?family=Poppins%3A400%2C600%7CCabin%3A400%2Cbolder%7CMontserrat%3A400%2C500%7COpen%20Sans%3A400%2C600" as="fetch" crossorigin="anonymous"><link rel='stylesheet' id='pagelayer-google-font-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A400%2C600%7CCabin%3A400%2Cbolder%7CMontserrat%3A400%2C500%7COpen+Sans%3A400%2C600&#038;ver=1.8.5' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.ezraondaratv.com/site-inc/js/wp-embed.min.js?ver=5.1.6'></script>
+<script type='text/javascript' src='https://www.youtube.com/iframe_api?ver=1.8.5'></script>
+</body>
+	</html>
